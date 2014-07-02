@@ -1,0 +1,80 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-13 ; Times: 1
+	Date: 2014-06-14 ; Times: 1
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-24 ; Times: 2
+	Date: 2014-06-25 ; Times: 3
+	Date: 2014-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eretmochelys imbricata AND mexico" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "specificepithet:Sceloporus malachiticus" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Hoplobatrachus occipitalis" ; Times: 1
+	Query: "stateprovince:"cook islands"" ; Times: 1
+	Query: "aspidoscelis tigris tissue:1" ; Times: 1
+	Query: "genus:Stenorrhina" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 278 download events in this period)
+Total number of records downloaded: 361 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 357
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 2
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "mappable:1 order:Serpentes" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "specificepithet:Sceloporus malachiticus" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 90
+Total number of records retrieved from searches: 905
+Number of download events that retrieved data from the resource: 59
+Total number of records downloaded: 1523
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 90
+Total number of records retrieved from searches: 905
+Number of download events that retrieved data from the resource: 124
+Total number of records downloaded: 14754
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
