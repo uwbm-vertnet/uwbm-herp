@@ -1,0 +1,102 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 75
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 1
+	Date: 2014-08-06 ; Times: 4
+	Date: 2014-08-07 ; Times: 2
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-10 ; Times: 1
+	Date: 2014-08-11 ; Times: 4
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-23 ; Times: 2
+	Date: 2014-08-25 ; Times: 4
+	Date: 2014-08-27 ; Times: 1
+	Date: 2014-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trachylepis" ; Times: 1
+	Query: "Python tissue:1" ; Times: 4
+	Query: "Hemidactylus pseudomuriceus" ; Times: 1
+	Query: "sceloporus occidentalis year >= 2000 mappable:1" ; Times: 4
+	Query: "specificepithet:Chamaeleo senegalensis" ; Times: 1
+	Query: "Echis" ; Times: 2
+	Query: "naja tissue:1" ; Times: 3
+	Query: "varanus" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "sceloporus occidentalis year >= 2000" ; Times: 2
+	Query: "naja tissue" ; Times: 1
+	Query: "anolis cristatellus country:"United States" AND (Puerto Rico) year >= 1990 year <= 2014 mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 273 download events in this period)
+Total number of records downloaded: 3450 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1970
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-04 ; Times: 1
+	Date: 2014-08-05 ; Times: 3
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-17 ; Times: 5
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "Coleonyx variegatus variegatus" ; Times: 1
+	Query: "Ambystoma" ; Times: 1
+	Query: "anolis cristatellus country:"United States" AND (Puerto Rico) year >= 1990 year <= 2014 mappable:1" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "family:Chamaeleonidae class:reptilia" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Sceloporus torquatus" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 143
+Total number of records retrieved from searches: 1515
+Number of download events that retrieved data from the resource: 92
+Total number of records downloaded: 7109
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 143
+Total number of records retrieved from searches: 1515
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 20340
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
