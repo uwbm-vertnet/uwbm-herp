@@ -1,0 +1,78 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-03 ; Times: 2
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-12 ; Times: 2
+	Date: 2014-11-18 ; Times: 1
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-24 ; Times: 1
+	Date: 2014-11-25 ; Times: 2
+	Date: 2014-11-27 ; Times: 4
+	Date: 2014-11-29 ; Times: 1
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trachylepis" ; Times: 1
+	Query: "sceloporus siniferus" ; Times: 2
+	Query: "phrynosoma asio" ; Times: 1
+	Query: ""Anaxyrus boreas" type:specimen (tissue) tissue:1" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: ""Anaxyrus boreas" type:specimen country:"United States" (tissue) tissue:1" ; Times: 1
+	Query: "coluber flagellum" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Sceloporus jalapae" ; Times: 2
+	Query: "Aspidoscelis tigris tissue:1" ; Times: 1
+	Query: "anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:ordinoides genus:Thamnophis tissue:1" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 189
+Total number of records retrieved from searches: 1751
+Number of download events that retrieved data from the resource: 107
+Total number of records downloaded: 7818
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 189
+Total number of records retrieved from searches: 1751
+Number of download events that retrieved data from the resource: 172
+Total number of records downloaded: 21049
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
