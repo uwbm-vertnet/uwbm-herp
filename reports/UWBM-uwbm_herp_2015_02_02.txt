@@ -1,0 +1,123 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 336
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 3
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-12 ; Times: 2
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 8
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-21 ; Times: 3
+	Date: 2015-01-22 ; Times: 3
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 3
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "plestiodon obsoletus new mexico" ; Times: 1
+	Query: "Cophosaurus tissue:1" ; Times: 1
+	Query: "Elgaria coerulea tissue:1" ; Times: 2
+	Query: "reptile type:specimen country:"mexico" institutioncode:uwbm" ; Times: 1
+	Query: "anolis occultus" ; Times: 4
+	Query: "crocodylus niloticus" ; Times: 2
+	Query: "chionactis occipitalis san diego" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "Washington +King+Renton" ; Times: 1
+	Query: "Pacific swallow tissue:1" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Washington King Renton" ; Times: 2
+	Query: "sceloporus smithi" ; Times: 3
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 2
+	Query: "anolis cuvieri" ; Times: 5
+	Query: ""uwbm/uwbm-herpetology-collection-arctos"" ; Times: 1
+	Query: "Gambelia tissue:1" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "enfield new york" ; Times: 1
+	Query: "phrynobatrachus natalensis" ; Times: 1
+	Query: "country:"Mexico" genus:Coleonyx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 445 download events in this period)
+Total number of records downloaded: 777 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 696
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-24 ; Times: 2
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "stateprovince:"new mexico" country:"united states" class:amphibia mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 224
+Total number of records retrieved from searches: 2115
+Number of download events that retrieved data from the resource: 16
+Total number of records downloaded: 777
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 262
+Total number of records retrieved from searches: 2451
+Number of download events that retrieved data from the resource: 230
+Total number of records downloaded: 23481
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
