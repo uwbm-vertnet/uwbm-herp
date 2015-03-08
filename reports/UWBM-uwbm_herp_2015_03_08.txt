@@ -1,0 +1,153 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 401
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 2
+	Date: 2015-02-03 ; Times: 6
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-06 ; Times: 3
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 5
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-18 ; Times: 5
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+	Date: 2015-02-27 ; Times: 2
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "Holbrookia tissue:1" ; Times: 2
+	Query: "Ascaphus tissue:1" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia tissue:1" ; Times: 1
+	Query: "Phrynosoma tissue:1" ; Times: 1
+	Query: "viperinae" ; Times: 1
+	Query: "lampropeltis triangulum new mexico" ; Times: 1
+	Query: "stateprovince:"Washington" specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "genus:Spea mappable:1 tissue:1" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "boidae skeleton type:specimen" ; Times: 1
+	Query: "Mexico lampropeltis getula" ; Times: 1
+	Query: "sceloporus graciosus new mexico" ; Times: 2
+	Query: "(Viperidae) tissue:1" ; Times: 4
+	Query: "Caeciliidae tissue:1" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 4
+	Query: "testudo graeca" ; Times: 2
+	Query: "Sceloporus poinsetti New Mexico" ; Times: 1
+	Query: "institutioncode:UWBM year >= 1950 year <= 1960" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "UWBM tissue:1" ; Times: 2
+	Query: "Urosaurus tissue:1" ; Times: 1
+	Query: "Geoemyda japonica" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 2
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "Sceloporus tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 326 download events in this period)
+Total number of records downloaded: 4016 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2843
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 4
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 4
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-12 ; Times: 3
+	Date: 2015-02-13 ; Times: 2
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Mexico" specificepithet:spinosus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Pyxicephalus adspersus" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "Imantodes" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "country:"Mexico" specificepithet:horridus genus:Sceloporus" ; Times: 2
+	Query: "crotalus viridis" ; Times: 1
+	Query: ""Spea hammondii" mappable:1" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Ambystoma country:"mexico"" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:variabilis genus:Sceloporus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 264
+Total number of records retrieved from searches: 2516
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 4793
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 302
+Total number of records retrieved from searches: 2852
+Number of download events that retrieved data from the resource: 265
+Total number of records downloaded: 27497
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
