@@ -1,0 +1,171 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 187
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United States ; Times: 38
+	Country: Vietnam ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-10 ; Times: 9
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 3
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-27 ; Times: 11
+	Date: 2015-06-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "hemidactylus new mexico" ; Times: 1
+	Query: "specificepithet:ochoterenae genus:Sceloporus" ; Times: 1
+	Query: "7348 tissue:1" ; Times: 2
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "uwbm 7306 tissue:1" ; Times: 1
+	Query: "Sceloporus grammicus Guerrero" ; Times: 2
+	Query: "uwbm 7353 tissue:1" ; Times: 2
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "uwbm 7368 tissue:1" ; Times: 1
+	Query: "specificepithet:fasciatus genus:hemidactylus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" genus:Aspidoscelis" ; Times: 1
+	Query: "Deirochelys (skeletal OR skeleton OR dry)" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Sceloporus gadoviae Guerrero" ; Times: 2
+	Query: "crotalus siskiyou county" ; Times: 1
+	Query: "uwbm 7282 tissue:1" ; Times: 1
+	Query: "Phrynosoma asio Guerrero" ; Times: 2
+	Query: "aubria" ; Times: 1
+	Query: "Thamnophis sauritus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "specificepithet:gadoviae genus:Sceloporus" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Sceloporus siniferus Guerrero" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "uwbm 7347 tissue:1" ; Times: 1
+	Query: "Aspidoscelis stateprovince:"Sonora" country:"Mexico"" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(32.21667476177436,-104.87274169921875))<25408" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 2
+	Query: "Sceloporus mucronatus Guerrero" ; Times: 2
+	Query: "western sword fern" ; Times: 1
+	Query: "uwbm 7363 tissue:1" ; Times: 1
+	Query: "coleonyx variegatus sonora mexico" ; Times: 2
+	Query: "Cnemaspis tissue:1" ; Times: 2
+	Query: "vashon thamnophis" ; Times: 2
+	Query: "Taricha torosa Mexico" ; Times: 1
+	Query: "genus:Aubria tissue:1" ; Times: 2
+	Query: "Sceloporus horridus Guerrero" ; Times: 2
+	Query: "specificepithet:freminvillei genus:Stenorrhina" ; Times: 1
+	Query: "Sceloporus ochoterenae Guerrero" ; Times: 1
+	Query: "milk snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1524 download events in this period)
+Total number of records downloaded: 1064 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 989
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 2
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-04 ; Times: 5
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-22 ; Times: 5
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Ctenosaura hemilopha stateprovince:"Baja California"" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Dicamptodon stateprovince:"California"" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Reptilia mappable:1" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "Deirochelys (skeleton OR skeletal OR dry)" ; Times: 1
+	Query: "bufo speciosus" ; Times: 1
+	Query: ""rhyacotriton olympicus" mappable:1" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon) mappable:1" ; Times: 1
+	Query: "anaxyrus woodhousii" ; Times: 1
+	Query: ""sceloporus magister" stateprovince:"Arizona" year >= 1950" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington) mappable:1" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Oregon)" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "Aspidoscelis stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(32.21667476177436,-104.87274169921875))<25408" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: ""rhyacotriton cascadae" mappable:1" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Washington)" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "anaxyrus fowleri" ; Times: 1
+	Query: "dicamptodon stateprovince:"california"" ; Times: 1
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: ""taricha torosa" mappable:1" ; Times: 1
+	Query: ""rhyacotriton kezeri" mappable:1" ; Times: 1
+	Query: "stateprovince:"california" genus:dicamptodon" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "phrynosoma solare" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 411
+Total number of records retrieved from searches: 3086
+Number of download events that retrieved data from the resource: 169
+Total number of records downloaded: 15361
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 449
+Total number of records retrieved from searches: 3422
+Number of download events that retrieved data from the resource: 383
+Total number of records downloaded: 38065
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
