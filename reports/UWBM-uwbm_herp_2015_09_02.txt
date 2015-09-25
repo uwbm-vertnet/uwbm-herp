@@ -1,0 +1,145 @@
+Report for Institution Code UWBM, Resource Amphibian and reptile specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 63
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 10
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-18 ; Times: 4
+	Date: 2015-08-19 ; Times: 5
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-24 ; Times: 8
+	Date: 2015-08-25 ; Times: 4
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gonionotophis klingi" ; Times: 3
+	Query: "Plethodon larselli year >= 1980 year <= 2015" ; Times: 1
+	Query: "Eunectes" ; Times: 1
+	Query: "Crotalus viridis stateprovince:"Arizona" year >= 1970 year <= 2015" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:cowlesi genus:sceloporus" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "4380" ; Times: 1
+	Query: "Gonionotophis" ; Times: 1
+	Query: "Plethodon vandykei year >= 1980 year <= 2015" ; Times: 1
+	Query: "lampropeltis getula mappable:1" ; Times: 1
+	Query: "AFRICAN HIGHER EDUCATION" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "Sceloporus orcutti stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Hoplobatrachus occipitalis" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "phrynosoma hernandesi" ; Times: 5
+	Query: "alvarius mexico" ; Times: 1
+	Query: "Ambystoma mavortium country:"Mexico"" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 3
+	Query: "Anaxyrus boreas" ; Times: 3
+	Query: "gavialis (skel OR skeleton)" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 4
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "483" ; Times: 1
+	Query: "Heterodon simus" ; Times: 5
+	Query: "6547" ; Times: 1
+	Query: "Ascaphus year >= 1980 year <= 2015" ; Times: 1
+	Query: "6294" ; Times: 1
+	Query: "Nogales class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "melanistic" ; Times: 1
+	Query: "6213" ; Times: 1
+	Query: "genus:Gonionotophis" ; Times: 1
+	Query: "genus:echis tissue:1" ; Times: 3
+	Query: "Lampropeltis zonata stateprovince:"California"" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "dicamptodon copei" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1138 download events in this period)
+Total number of records downloaded: 1486 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 886
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-03 ; Times: 2
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-09 ; Times: 2
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:Amphibia year >= 1800 year <= 1970" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "nevada (amphibian reptile)" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen country:"Mexico" genus:Crotalus" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "stateprovince:"New York" class:Amphibia mappable:1" ; Times: 1
+	Query: "Xenopus muelleri year >= 1900 year <= 2013" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 227
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 1486
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 63
+Total number of records retrieved from searches: 227
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 1486
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
