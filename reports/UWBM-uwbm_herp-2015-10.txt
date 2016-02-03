@@ -1,0 +1,125 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 269
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavialis" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UWBM" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; month &gt;= 3 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "Bradford Norman" ; Times: 4
+	Query: "plethodon larselli" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Michigan&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "african clawed frog" ; Times: 2
+	Query: "Sceloporus torquatus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 823 download events in this period)
+Total number of records downloaded: 535
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-31 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus formosus" ; Times: 2
+	Query: "actinemys" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Cophosaurus texanus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "SCELOPORUS FORMOSUS" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "phrynosoma tissue:1" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Gambelia wislizenii stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
