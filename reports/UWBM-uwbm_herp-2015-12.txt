@@ -1,0 +1,124 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 527
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Denmark ; Times: 16
+	Country: Germany ; Times: 4
+	Country: Serbia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-05 ; Times: 11
+	Date: 2015-12-04 ; Times: 6
+	Date: 2015-12-14 ; Times: 8
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-29 ; Times: 21
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon vandykei stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "sceloporus dugesii" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 22
+	Query: "emys orbicularis" ; Times: 1
+	Query: "anolis occultus tissue:1" ; Times: 1
+	Query: "Anolis gundlachi tissue:1" ; Times: 1
+	Query: "specificepithet:taurus genus:Phrynosoma tissue:1" ; Times: 2
+	Query: "Ambystoma tigrinum stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "xantusia vigilis sonora mexico" ; Times: 2
+	Query: "amphibian Reno" ; Times: 1
+	Query: "specificepithet:asio genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "chrysopelea" ; Times: 4
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Rana cascadae county:&#34;Jefferson&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Sceloporus ochoterenae" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 5
+	Query: "genus:Phrynosoma tissue:1" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ambystoma mavortium stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 889 download events in this period)
+Total number of records downloaded: 776
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 7
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-17 ; Times: 10
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "collection database Bolitoglossa" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Sceloporus smithi" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Sceloporus edwardtaylori" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Sceloporus torquatus" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Sceloporus adleri" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
