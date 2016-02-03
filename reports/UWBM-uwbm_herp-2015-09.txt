@@ -1,0 +1,165 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 799
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 13
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-15 ; Times: 6
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-23 ; Times: 12
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 9
+	Date: 2015-09-30 ; Times: 8
+	Date: 2015-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "type:specimen genus:Echis family:Viperidae" ; Times: 1
+	Query: "apalone (skel OR skeleton)" ; Times: 1
+	Query: "sceloporus dugesii" ; Times: 1
+	Query: "Herpetology Bradford Norman" ; Times: 2
+	Query: "thamnophis elegans san juan island" ; Times: 1
+	Query: "Trachemys country:&#34;Brazil&#34;" ; Times: 1
+	Query: "simus" ; Times: 4
+	Query: "stateprovince:&#34;Arizona&#34; (bufo punctatus)" ; Times: 1
+	Query: "san juan islands thamnophis" ; Times: 1
+	Query: "lycodon aulicus" ; Times: 1
+	Query: "crocodylus tissue:1" ; Times: 3
+	Query: "Dermatemys (skel OR skeleton)" ; Times: 1
+	Query: "Python reticulatus" ; Times: 2
+	Query: "Bradford Norman Guatemala" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Dermochelys (skel OR skeleton)" ; Times: 2
+	Query: "Poinsetti" ; Times: 1
+	Query: "Shinisaurus" ; Times: 9
+	Query: "Gavialis" ; Times: 1
+	Query: "Pituophis catenifer deserticola" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34; year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:gemmistratus genus:Imantodes country:&#34;Panama&#34;" ; Times: 4
+	Query: "phrynosoma hernandesi" ; Times: 2
+	Query: "Chelydra (skel OR skeleton)" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "Elaphe [Pantherophis] obsoleta" ; Times: 1
+	Query: "gbifdatasetid:78122332-6315-41bd-914b-e9c1342d9093" ; Times: 4
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "SHinisaurus" ; Times: 1
+	Query: "crocodylia tissue:1" ; Times: 3
+	Query: "san juan island thamnophis distance(location,geopoint(48.532176535381865,-123.0633544921875))&lt;7219.526323220105" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Geoemyda japonica" ; Times: 1
+	Query: "find records with" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coleonyx sonora" ; Times: 1
+	Query: "Bradford Norman" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "thamnophis sirtalis pickeringii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1045 download events in this period)
+Total number of records downloaded: 3256
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 32
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-22 ; Times: 4
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Amphibia year &lt;= 2015" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "phrynomantis" ; Times: 1
+	Query: "sceloporus dugesii" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "Spea" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "(reptilia puebla) mappable:1" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Scaphiopus" ; Times: 3
+	Query: "bufo marinus" ; Times: 1
+	Query: "specificepithet:torquatus genus:Sceloporus mappable:1" ; Times: 1
+	Query: "Pituophis catenifer (Baja)" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Crotaphytus tissue:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "country:&#34;marshall islands&#34; class:reptilia" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+
+
+End of report.
