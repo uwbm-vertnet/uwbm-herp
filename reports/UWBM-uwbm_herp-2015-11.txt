@@ -1,0 +1,127 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 607
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-27 ; Times: 3
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-25 ; Times: 4
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-28 ; Times: 4
+	Date: 2015-11-04 ; Times: 4
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-13 ; Times: 3
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:crotalus preparations:skeleton" ; Times: 2
+	Query: "Hemisus marmoratus Ghana" ; Times: 1
+	Query: "Bradford Norman" ; Times: 3
+	Query: "Sceloporus jalapae" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:Phrynosoma stateprovince:arizona" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "dermochelys coriacea -india" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Aubria tissue:1" ; Times: 1
+	Query: "Acanthodactylus" ; Times: 3
+	Query: "recordedby:Malkin" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Trachylepis quinquetaeniata" ; Times: 1
+	Query: "distance(location,geopoint(46.191279,-122.180778))&lt;30000" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:quinquetaeniata genus:Trachylepis" ; Times: 2
+	Query: "Heloderma suspectum class:Reptilia mappable:1" ; Times: 1
+	Query: "Geoemyda" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Coluber constrictor mormon" ; Times: 1
+	Query: "specificepithet:hippocrepis class:Reptilia" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "cordylus cataphractus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 751 download events in this period)
+Total number of records downloaded: 814
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Belgium ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-30 ; Times: 6
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-20 ; Times: 6
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 7
+	Query: "Aspidoscelis inornata" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "sceloporus poinsetti" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Callisaurus" ; Times: 2
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Gopherus agassizii" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Heloderma suspectum class:Reptilia mappable:1" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "class:Reptilia locality:white sands stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
