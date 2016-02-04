@@ -1,0 +1,133 @@
+Report for Institution Code UWBM, Resource Amphibian and reptile specimens
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 3
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "hemisus tissue:1" ; Times: 1
+	Query: "sceloporus occidentalis type:specimen tissue:1" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "dipsadoboa tissue:1" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "genus:Rana mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:"Oregon"" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "genus:Phrynobatrachus specificepithet:tokba" ; Times: 1
+	Query: "Uta stansburiana mappable:1 tissue:1" ; Times: 1
+	Query: "sceloporus occidentalis type:specimen sex:Female tissue:1" ; Times: 1
+	Query: "ascaphus tissue:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 2
+	Query: "Pythonidae tissue:1" ; Times: 2
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Xenopus tissue:1" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "atheris tissue:1" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "Dicamptodon tenebrosus stateprovince:"Oregon"" ; Times: 1
+	Query: "Asteraceae specimen" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Gambelia tissue:1" ; Times: 1
+	Query: "Plethodon vandykei county:"Grays harbor"" ; Times: 1
+	Query: "Xenopeltidae tissue:1" ; Times: 1
+	Query: "heterodon simus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 507 download events in this period)
+Total number of records downloaded: 12750 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3145
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: ""False Bay"" ; Times: 1
+	Query: "genus:Rana class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Boidae tissue:1" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "genus:Batrachoseps class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "(Phrynomantis) tissue:1" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 12750
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 337
+Number of download events that retrieved data from the resource: 23
+Total number of records downloaded: 12750
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
