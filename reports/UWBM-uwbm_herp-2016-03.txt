@@ -1,0 +1,61 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 147
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber constrictor mormon" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "tissue:1 Cophosaurus" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 230 download events in this period)
+Total number of records downloaded: 73818
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "Rainier class:Amphibia county:&#34;Lewis&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
