@@ -1,0 +1,161 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 521
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: South Africa ; Times: 7
+	Country: United Arab Emirates ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 53
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-27 ; Times: 14
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "specificepithet:simus genus:heterodon" ; Times: 4
+	Query: "Chrysemys stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "longirostris year &gt;= 2010 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "hernandesi" ; Times: 1
+	Query: "Crotalus viridis Navajo Arizona" ; Times: 2
+	Query: "Boiga tissue:1" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "conchas dam" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "ptychadena schubotzi" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 2
+	Query: "specificepithet:mavortium genus:Ambystoma" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 6
+	Query: "rana cascadae 1985" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus (Africa) tissue:1" ; Times: 1
+	Query: "Chamaeleo senegalensis" ; Times: 1
+	Query: "Contia tenuis" ; Times: 2
+	Query: "Lygosoma tissue:1" ; Times: 4
+	Query: "Hemidactylus (Africa) AND (mabouia) tissue:1" ; Times: 2
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "Gambelia wislizenii Baja California" ; Times: 1
+	Query: "rana cascadae 1984" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Plestiodon sex:male" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 2
+	Query: "eublepharis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1312 download events in this period)
+Total number of records downloaded: 6784
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 8
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 2
+	Country: United Arab Emirates ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-15 ; Times: 6
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-27 ; Times: 4
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 2
+	Query: "kassina" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "ptychadena schubotzi" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
