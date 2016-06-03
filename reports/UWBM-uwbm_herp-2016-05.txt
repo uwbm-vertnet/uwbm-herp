@@ -1,0 +1,110 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 5
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "dicamptodon tenebrosus distance(location,geopoint(45.65500838821109,-122.1240234375))&lt;100000" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 4
+	Query: "heloderma" ; Times: 2
+	Query: "heterodermus" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 2
+	Query: "anolis occultus" ; Times: 5
+	Query: "phrynosoma asio" ; Times: 2
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "Python reticulatus" ; Times: 1
+	Query: "specificepithet:occultus genus:anolis year &gt;= 1996 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 2
+	Query: "sceloporus tristichus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Sceloporus tristichus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:bobirensis genus:hyperolius" ; Times: 1
+	Query: "phrynosoma asio mappable:1" ; Times: 1
+	Query: "Sceloporus dugesii dugesii AND (NOT intermedius) mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Michigan&#34; mappable:1" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 2
+	Query: "Coluber flagellum flagellum" ; Times: 2
+	Query: "Reptilia oklahoma Washington" ; Times: 1
+	Query: "urosaurus ornatus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Sceloporus mucronatus mucronatus AND (NOT aureolus NOT omiltemanus) mappable:1" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 327 download events in this period)
+Total number of records downloaded: 600
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Japan ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 16
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 2
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Coluber flagellum flagellum" ; Times: 2
+
+
+End of report.
