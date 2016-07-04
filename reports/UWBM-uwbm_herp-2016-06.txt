@@ -1,0 +1,187 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 972
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 88
+	Country: United Kingdom ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 20
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-17 ; Times: 5
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-13 ; Times: 14
+	Date: 2016-06-03 ; Times: 13
+	Date: 2016-06-11 ; Times: 4
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-10 ; Times: 5
+	Date: 2016-06-09 ; Times: 6
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 6
+	Query: "doherty" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 5
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Thamnophis vashon" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 4
+	Query: "specificepithet:komodoensis" ; Times: 1
+	Query: "Reptilia 6606" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Fields class:Reptilia country:&#34;United States&#34; year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "dicamptodon tenebrosus distance(location,geopoint(47.29910163887995,-123.310546875))&lt;100000" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma distance(location,geopoint(45.42929873257378,-121.728515625))&lt;100000" ; Times: 2
+	Query: "Ambystoma macrodactylum distance(location,geopoint(47.03893465304867,-121.82263243849997))&lt;100000" ; Times: 1
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "class:Amphibia month &gt;= 3 month &lt;= 3 distance(location,geopoint(45.6178796835697,-122.66510009765625))&lt;65035" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 2
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "dicamptodon copei" ; Times: 1
+	Query: "davenport pond" ; Times: 2
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "thamnophis vashon" ; Times: 2
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "dicamptodon distance(location,geopoint(46.75993497044862,-123.3544921875))&lt;100000" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "class:Amphibia month &gt;= 8 month &lt;= 8 distance(location,geopoint(45.6178796835697,-122.66510009765625))&lt;65035" ; Times: 1
+	Query: "urosaurus ornatus Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "Spea type:specimen (hammondii OR intermontana OR hammondi OR multiplicata OR bombifrons) tissue:1" ; Times: 1
+	Query: "plethodon vandykei distance(location,geopoint(45.6178796835697,-122.66510009765625))&lt;65035" ; Times: 1
+	Query: "Cnemaspis" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;washington&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 3
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "coluber constrictor stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Mauremys" ; Times: 1
+	Query: "batrachoseps wrighti distance(location,geopoint(43.41568893118481,-122.607421875))&lt;100000" ; Times: 1
+	Query: "Contia tenuis" ; Times: 1
+	Query: "regilla mappable:1 tissue:1" ; Times: 3
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "lycodon tissue:1" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 1
+	Query: "Ambystoma macrodactylum distance(location,geopoint(46.31626853115446,-121.66015517820296))&lt;100000" ; Times: 2
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma distance(location,geopoint(45.533288879467456,-122.68157958984375))&lt;137688" ; Times: 3
+	Query: "genus:Anolis catalognumber:7690" ; Times: 1
+	Query: "Sceloporus smithi Mexico" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 10
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "Phrynosoma asio}" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;oregon&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "rhyacotriton cascadae" ; Times: 1
+	Query: "Chiromantis rufescens tissue:1" ; Times: 2
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+	Query: "Reptilia 2490" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 2
+	Query: "heterodon simus" ; Times: 2
+	Query: "Varanus exanthematicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1052 download events in this period)
+Total number of records downloaded: 1124
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 9
+	Date: 2016-06-13 ; Times: 5
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 8
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "regilla mappable:1 tissue:1" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "ctenosaura hemilopha" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia mappable:1" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Spea type:specimen (hammondii OR intermontana OR hammondi OR multiplicata OR bombifrons) tissue:1" ; Times: 1
+	Query: "Mauremys" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "uta stansburiana Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Sceloporus variabilis" ; Times: 1
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "lycodon tissue:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 2
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "Chrysemys" ; Times: 1
+	Query: "Chiromantis rufescens tissue:1" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Rhinella marinus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
