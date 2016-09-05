@@ -1,0 +1,164 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 495
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 4
+	Date: 2016-08-18 ; Times: 11
+	Date: 2016-08-19 ; Times: 6
+	Date: 2016-08-26 ; Times: 3
+	Date: 2016-08-21 ; Times: 43
+	Date: 2016-08-20 ; Times: 13
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 7
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "institutioncode:UWBM tissue:1" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Varanus nebulosus type:specimen tissue:1" ; Times: 1
+	Query: "(bufo anaxyrus)" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "specificepithet:taeniatus stateprovince:&#34;Washington&#34; mappable:1" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "genus:Virginia stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "class:amphibia county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Crotalus oreganus AND (viridis)" ; Times: 2
+	Query: "genus:uta stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "bufo woodhousii new mexico" ; Times: 3
+	Query: "Aspidoscelis sackii" ; Times: 2
+	Query: "(anaxyrus bufo)" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "anaxyrus woodhousii new mexico" ; Times: 3
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "class:reptilia county:&#34;klickitat&#34; stateprovince:&#34;Washington&#34; mappable:1" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 3
+	Query: "Varanus tissue:1" ; Times: 1
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "genus:Lampropeltis lengthtype:total length haslength:1" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "Rhyacotriton cascadae" ; Times: 3
+	Query: "Dicamptodon copei" ; Times: 2
+	Query: "UWBM institutioncode:UWBM" ; Times: 1
+	Query: "genus:Lampropeltis haslength:1" ; Times: 1
+	Query: "specificepithet:cyanochloris genus:Celestus" ; Times: 3
+	Query: "class:reptilia county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 44
+	Query: "heterodon simus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 924 download events in this period)
+Total number of records downloaded: 3886
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-27 ; Times: 5
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis stratulus" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Crotalus viridis tissue:1" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Crotalus oreganus tissue:1" ; Times: 1
+	Query: "anolis krugi" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "specificepithet:cyanochloris genus:Celestus" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Elgaria tissue:1" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Spea hammondii" ; Times: 1
+	Query: "Contia" ; Times: 1
+
+
+End of report.
