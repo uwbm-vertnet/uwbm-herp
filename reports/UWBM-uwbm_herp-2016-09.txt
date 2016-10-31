@@ -1,0 +1,82 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 442
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-01 ; Times: 6
+	Date: 2016-09-02 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "Phrynosoma stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 4
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "pseudacris brimleyi" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "family:Viperidae class:Reptilia stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Rodent is" ; Times: 1
+	Query: "gbifdatasetid:78122332-6315-41bd-914b-e9c1342d9093" ; Times: 2
+	Query: "Phrynosoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "pseudacris brimleyi north carolina" ; Times: 2
+	Query: "Rana catesbeiana 1" ; Times: 2
+	Query: "Actinemys" ; Times: 1
+	Query: "Phrynosoma taurus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 2
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 811 download events in this period)
+Total number of records downloaded: 711
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana pipiens" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "hemidactylus continent:africa tissue:1" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+
+
+End of report.
