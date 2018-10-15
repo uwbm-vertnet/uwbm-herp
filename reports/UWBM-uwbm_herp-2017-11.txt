@@ -1,0 +1,57 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-30 ; Times: 2
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Lycodon" ; Times: 2
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1967 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 1
+	Query: "viperinae" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "april payne" ; Times: 2
+	Query: "genus:Elaphe year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:larselli genus:Plethodon" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1101 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
