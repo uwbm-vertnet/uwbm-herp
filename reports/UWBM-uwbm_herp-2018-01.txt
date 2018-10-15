@@ -1,0 +1,135 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 214
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 5
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-17 ; Times: 9
+	Date: 2018-01-04 ; Times: 3
+	Date: 2018-01-23 ; Times: 8
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Coleonyx variegatus Sonora Mexico" ; Times: 2
+	Query: "Ninia sebae" ; Times: 1
+	Query: "specificepithet:rufescens genus:Chiromantis year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "genus:shinisaurus institutioncode:UWBM" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 2
+	Query: "Lampropeltis triangulum" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta hastissue:1" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Washington&#34; year &gt;= 1980" ; Times: 1
+	Query: "family:Gekkonidae institutioncode:UWBM" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta hastissue:1" ; Times: 1
+	Query: "specificepithet:variegata genus:Natriciteres hastissue:1" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "catalognumber:5660 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Coluber mentovarius" ; Times: 2
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Coluber" ; Times: 1
+	Query: "Bolitoglossa mulleri" ; Times: 1
+	Query: "genus:Uta hastissue:1" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "coleonyx variegatus sonora mexico" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:Phrynosoma stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 2
+	Query: "Chiromantis rufescens" ; Times: 1
+	Query: "Amietophrynus maculatus hassex:1" ; Times: 7
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "UWBM 6318" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Mesaspis moreletii" ; Times: 2
+	Query: "catalognumber:1044" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1398 download events in this period)
+Total number of records downloaded: 1520
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 8
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "sceloporus occidentalis vntype:specimen basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
