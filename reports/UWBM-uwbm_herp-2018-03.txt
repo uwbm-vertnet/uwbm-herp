@@ -1,0 +1,182 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 272
+Number of records retrieved in searches: 2605
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 26
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 235
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 8
+	Date: 2018-03-29 ; Times: 8
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 12
+	Date: 2018-03-18 ; Times: 7
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 18
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-05 ; Times: 13
+	Date: 2018-03-28 ; Times: 38
+	Date: 2018-03-07 ; Times: 4
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 25
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-26 ; Times: 60
+	Date: 2018-03-23 ; Times: 13
+	Date: 2018-03-20 ; Times: 13
+	Date: 2018-03-21 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ordinoides genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 3
+	Query: "heloderma" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 2
+	Query: "specificepithet:berlandieri genus:Gopherus" ; Times: 1
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 2
+	Query: "Echis hastissue:1" ; Times: 2
+	Query: "genus:Bronchocela specificepithet:cristatella" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 3
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 5
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 5
+	Query: "sceloporus graciosus stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 2
+	Query: "specificepithet:wrighti genus:batrachoseps county:&#34;lane&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:sundevallii genus:elapsoidea mappable:1" ; Times: 1
+	Query: "genus:Sternotherus specificepithet:minor" ; Times: 2
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "genus:Varanus specificepithet:prasinus" ; Times: 5
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 2
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 5
+	Query: "atheris hastissue:1" ; Times: 6
+	Query: "specificepithet:zonata county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "genus:Gekko specificepithet:gecko" ; Times: 5
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "genus:Chionactis specificepithet:occipitalis" ; Times: 2
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "genus:Acrantophis specificepithet:dumerili" ; Times: 5
+	Query: "specificepithet:platyrhinos genus:Phrynosoma hasmass:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 4
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 5
+	Query: "genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "genus:Hemisus specificepithet:marmoratus" ; Times: 5
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "genus:Cnemaspis specificepithet:spinicollis" ; Times: 4
+	Query: "genus:Charina specificepithet:bottae" ; Times: 5
+	Query: "genus:Gavialis specificepithet:gangeticus" ; Times: 5
+	Query: "genus:Pelomedusa specificepithet:subrufa" ; Times: 5
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 6
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 5
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 5
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 5
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 6
+	Query: "genus:Ascaphus specificepithet:truei" ; Times: 1
+	Query: "Dendrelaphis kopsteini" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "genus:Shinisaurus specificepithet:crocodilurus" ; Times: 5
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 6
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "recordnumber:4638" ; Times: 1
+	Query: "genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 8
+	Query: "genus:Mesaspis specificepithet:moreletii" ; Times: 6
+	Query: "specificepithet:gemmistratus genus:Imantodes country:&#34;Panama&#34;" ; Times: 1
+	Query: "acanthodactylus guineensis" ; Times: 2
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 2
+	Query: "genus:Gyrinophilus specificepithet:porphyriticus" ; Times: 2
+	Query: "genus:Chelydra" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 2
+	Query: "Reptilia new mexico conchas" ; Times: 1
+	Query: "genus:Oligodon specificepithet:octolineatus" ; Times: 5
+	Query: "specificepithet:elegans genus:thamnophis lifestage:adult hassex:1 haslength:1" ; Times: 4
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 2
+	Query: "snake country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis hasmass:1" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 2
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Phyllorhynchus specificepithet:decurtatus" ; Times: 2
+	Query: "genus:Phrynomantis" ; Times: 3
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 8
+	Query: "genus:Tiliqua hasmass=1" ; Times: 3
+	Query: "genus:Ninia specificepithet:sebae" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:UWBM" ; Times: 2
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Lampropeltis specificepithet:triangulum" ; Times: 2
+	Query: "Crotalus stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:mucronatus genus:Sceloporus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "cnemaspis spinicollis" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis lifestage:Adult haslifestage:1 haslength:1 mappable:1" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 5
+	Query: "genus:Chrysopelea specificepithet:paradisi" ; Times: 5
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 5
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 2
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 6
+	Query: "Bradford Norman UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1284 download events in this period)
+Total number of records downloaded: 2690
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 4
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UWBM" ; Times: 1
+	Query: "sceloporus siniferus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "Pelomedusa" ; Times: 1
+
+
+End of report.
