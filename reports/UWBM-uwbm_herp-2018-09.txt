@@ -1,0 +1,176 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 978
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Austria ; Times: 1
+	Country: United States ; Times: 66
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ivory Coast ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-04 ; Times: 14
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 13
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-02 ; Times: 6
+	Date: 2018-09-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:kassina institutioncode:UWBM" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:Oreganus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Crotaphytus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "specificepithet:arboricola genus:kassina country:&#34;Ghana&#34; year &gt;= 2016 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Bufo boreas Alaska Island" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:aequiplicata" ; Times: 1
+	Query: "Coluber mentovarius mentovarius" ; Times: 1
+	Query: "specificepithet:arboricola genus:kassina country:&#34;Ghana&#34; year &lt;= 2011 institutioncode:UWBM" ; Times: 1
+	Query: "genus:kassina catalognumber:8878 institutioncode:UWBM" ; Times: 1
+	Query: "cougar" ; Times: 1
+	Query: "specificepithet:boreas AND (genus:Anaxyrus OR genus:Bufo) AND stateprovince:Alaska" ; Times: 2
+	Query: "Heterodon simus mappable:1" ; Times: 5
+	Query: "specificepithet:arboricola genus:kassina country:&#34;Ghana&#34; institutioncode:UWBM" ; Times: 2
+	Query: "Aipysurus" ; Times: 2
+	Query: "specificepithet:wislizenii genus:Gambelia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:arboricola genus:kassina country:&#34;Ghana&#34; year &gt;= 2011 institutioncode:UWBM" ; Times: 1
+	Query: "genus:kassina catalognumber:8879 institutioncode:UWBM" ; Times: 1
+	Query: "Acanthodactylus guineensis" ; Times: 1
+	Query: "genus:kassina catalognumber:8883 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:mulleri" ; Times: 1
+	Query: "genus:Sceloporus mappable:1 country:Mexico year&gt;1980" ; Times: 4
+	Query: "specificepithet:derooi genus:Conraua" ; Times: 1
+	Query: "specificepithet:derooi genus:Conraua hastissue:1" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus mappable:1 stateprovince:Arizona" ; Times: 4
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "genus:eumeces preparations:skeleton" ; Times: 1
+	Query: "genus:taricha class:amphibia stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Conraua hastissue:1" ; Times: 5
+	Query: "specificepithet:woodi genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 2
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "specificepithet:boreas genus:Anaxyrus stateprovince:&#34;Alaska&#34; distance(location,geopoint(55.45337929289981,-132.14355558156967))&lt;100000" ; Times: 1
+	Query: "sceloporus huehuetenango" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "genus:Sceloporus mappable:1 country:Mexico year&gt;2000" ; Times: 1
+	Query: "specificepithet:derooi genus:Conraua year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "genus:Chamaeleo haslength:1" ; Times: 1
+	Query: "genus:kassina catalognumber:8875 institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 846 download events in this period)
+Total number of records downloaded: 1168
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Canada ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 7
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-18 ; Times: 19
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "genus:Crotaphytus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Coluber mentovarius mentovarius" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:cowlesi genus:sceloporus" ; Times: 2
+	Query: "sceloporus tristichus" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "class:Reptilia hassex:1 hasmass:1" ; Times: 1
+	Query: "Trachylepis quinquetaeniata" ; Times: 1
+	Query: "Trachylepis perrotetii" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "deirochelys" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Trachylepis maculilabris" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+
+
+End of report.
