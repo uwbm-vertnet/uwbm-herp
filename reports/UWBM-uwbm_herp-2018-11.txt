@@ -1,0 +1,138 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 755
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 4
+	Date: 2018-11-04 ; Times: 11
+	Date: 2018-11-09 ; Times: 3
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-05 ; Times: 13
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-23 ; Times: 2
+	Date: 2018-11-22 ; Times: 3
+	Date: 2018-11-21 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "11 November 1946" ; Times: 1
+	Query: "catalognumber:4293 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:occidentalis" ; Times: 7
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "Ctenosaura sp." ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 2
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "Afrixalus dorsalis mappable:1" ; Times: 5
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:contia year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "genus:contia year &gt;= 1991 year &lt;= 2018" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "genus:contia" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "gbifdatasetid:78122332-6315-41bd-914b-e9c1342d9093" ; Times: 4
+	Query: "Heterodon simus" ; Times: 1
+	Query: "UW" ; Times: 1
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 4
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 4
+	Query: "specificepithet:granulosa stateprovince:California" ; Times: 1
+	Query: "genus:elapsoidea hastissue:1" ; Times: 7
+	Query: "Cardioglossa leucomystax mappable:1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1719 download events in this period)
+Total number of records downloaded: 1881
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 18
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-09 ; Times: 4
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-21 ; Times: 2
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alterna genus:lampropeltis" ; Times: 1
+	Query: "specificepithet:lateralis genus:masticophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:horridus genus:sceloporus country:&#34;mexico&#34;" ; Times: 1
+	Query: "sceloporus cowlesi" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana hastissue:1" ; Times: 1
+	Query: "ninia sebae" ; Times: 2
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "specificepithet:lugubris genus:aneides stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "specificepithet:temminckii family:Chelydridae" ; Times: 1
+	Query: "phyllorhynchus decurtatus" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis" ; Times: 1
+	Query: "genus:Ptychadena hastissue:1" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
