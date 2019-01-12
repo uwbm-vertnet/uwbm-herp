@@ -1,0 +1,132 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-20 ; Times: 5
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 10
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 8
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Raffles" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Anolis hassex:1" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 2
+	Query: "echis" ; Times: 1
+	Query: "Hemidactylus brookii" ; Times: 5
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "specificepithet:stratulus genus:Anolis sex:Male hassex:1" ; Times: 1
+	Query: "specificepithet:couperi genus:Drymarchon" ; Times: 1
+	Query: "Lycodon" ; Times: 1
+	Query: "specificepithet:stratulus genus:Anolis lifestage:Adult sex:Female hassex:1" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "Alligator oklahoma" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Mauremys country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:occultus genus:Anolis sex:Male hassex:1" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis month &gt;= 12" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:poncensis genus:Anolis hassex:1" ; Times: 1
+	Query: "specificepithet:gundlachi genus:Anolis sex:Male hassex:1" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "specificepithet:occultus genus:Anolis sex:Female hassex:1" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "specificepithet:variabilis genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:stratulus genus:Anolis sex:Female hassex:1" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena hastissue:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 809 download events in this period)
+Total number of records downloaded: 779
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Taiwan ; Times: 2
+	Country: Indonesia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:variabilis genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "reptile vietnam" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "vietnam" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+
+
+End of report.
