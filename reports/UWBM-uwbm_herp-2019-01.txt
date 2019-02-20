@@ -1,0 +1,172 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 2239
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 25
+	Country: United States ; Times: 80
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 4
+	Date: 2019-01-14 ; Times: 20
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 38
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-23 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:uwbm" ; Times: 1
+	Query: "Xenopus tropicalis" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "vntype:specimen genus:thamnophis institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "holbrookia navajo" ; Times: 1
+	Query: "genus:coluber stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "genus:Ptychadena institutioncode:UWBM" ; Times: 2
+	Query: "063 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 1
+	Query: "recordnumber:lnj 003 institutioncode:UWBM" ; Times: 2
+	Query: "class:amphibia county:&#34;Clark&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "046 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "008 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "122 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "077 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Ascaphus lifestage:adult institutioncode:UWBM" ; Times: 1
+	Query: "048 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "anolis poncensis" ; Times: 2
+	Query: "Helodermatidae" ; Times: 1
+	Query: "064 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "009 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "specificepithet:aequiplicata genus:Ptychadena institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "011 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "082 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "014 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "013 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 17
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "079 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "LNJ 122 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "class:amphibia county:&#34;Cowlitz&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "genus:Ambystoma preparations:skeleton" ; Times: 2
+	Query: "007 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "044 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "045 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "068 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "Celestus" ; Times: 2
+	Query: "specificepithet:aequiplicata genus:Ptychadena institutioncode:UWBM" ; Times: 2
+	Query: "066 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 2
+	Query: "035 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "070 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "053 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "057 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "whidbey vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "017 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "4481 institutioncode:UWBM" ; Times: 1
+	Query: "062 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "class:amphibia county:&#34;Wahkiakum&#34;" ; Times: 5
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:UWBM" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 2
+	Query: "island county vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "121 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "vntype:specimen genus:thamnophis recordnumber:lnj institutioncode:UWBM" ; Times: 1
+	Query: "genus:Amnirana specificepithet:galamensis" ; Times: 1
+	Query: "ptychadena institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "ptychadena institutioncode:UWBM" ; Times: 1
+	Query: "uw 1546" ; Times: 1
+	Query: "4481 vntype:specimen genus:thamnophis institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena institutioncode:UWBM" ; Times: 2
+	Query: "Alligator Oklahoma" ; Times: 1
+	Query: "Ascaphus truei mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 962 download events in this period)
+Total number of records downloaded: 168
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "eurycea neotenes" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena institutioncode:UWBM" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "specificepithet:aequiplicata genus:Ptychadena institutioncode:UWBM" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "&#34;sceloporus occidentalis&#34; vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 2
+	Query: "specificepithet:fuscus genus:Desmognathus" ; Times: 1
+	Query: "ptychadena institutioncode:UWBM hastissue:1" ; Times: 1
+
+
+End of report.
