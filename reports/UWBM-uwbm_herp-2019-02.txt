@@ -1,0 +1,149 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 565
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: United States ; Times: 40
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 3
+	Country: Canada ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 3
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 8
+	Date: 2019-02-14 ; Times: 16
+	Date: 2019-02-17 ; Times: 8
+	Date: 2019-02-16 ; Times: 8
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 6
+	Date: 2019-02-24 ; Times: 4
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-08 ; Times: 5
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 13
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "catalognumber:6585 institutioncode:UWBM" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 4
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "genus:ptyodactylus" ; Times: 1
+	Query: "Xenochrophis mappable:1" ; Times: 1
+	Query: "family:Viperidae haslength:1" ; Times: 1
+	Query: "Echis mappable:1" ; Times: 1
+	Query: "rattle snake" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34; year &gt;= 2007 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "emys orbicularis" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "African clawed frog" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Pseudacris haslength:1" ; Times: 1
+	Query: "specificepithet:galamensis genus:Amnirana" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "Testudo kleinmanni" ; Times: 2
+	Query: "1951-800" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "catesbeiana haslength:1" ; Times: 3
+	Query: "Trachylepis quinquetaeniata" ; Times: 3
+	Query: "catalognumber:7265 institutioncode:UWBM" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 4
+	Query: "Heterodon simus" ; Times: 5
+	Query: "gavialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 3
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34; year &gt;= 2006 institutioncode:UWBM" ; Times: 1
+	Query: "pseudacris haslength:1" ; Times: 2
+	Query: "sceloporus occidentalis institutioncode:UWBM" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 1
+	Query: "tiliqua gigas" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 32
+	Query: "institutioncode:UWBM" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "sword fern" ; Times: 1
+	Query: "Varanus cumingi" ; Times: 3
+	Query: "Phrynobatrachus intermedius" ; Times: 1
+	Query: "dicamptodon copei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1227 download events in this period)
+Total number of records downloaded: 565
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-11 ; Times: 12
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "sceloporus occidentalis institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "Atheris chlorechis" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "crotalinae" ; Times: 3
+	Query: "order:Anura haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34; year &gt;= 2006 institutioncode:UWBM" ; Times: 1
+	Query: "bolitoglossa mulleri" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34; year &gt;= 2007 institutioncode:UWBM" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+
+End of report.
