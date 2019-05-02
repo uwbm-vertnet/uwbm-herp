@@ -1,0 +1,168 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 1150
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 3
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-03 ; Times: 10
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-01 ; Times: 13
+	Date: 2019-04-24 ; Times: 12
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber flagellum mappable:1" ; Times: 1
+	Query: "vntype:specimen institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Anolis evermanni mappable:1" ; Times: 1
+	Query: "Bradford R. Norman WASHINGTON STATE COLLECTOR" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "specificepithet:speciosus genus:Anaxyrus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "Hurley institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:sackii genus:Aspidoscelis" ; Times: 1
+	Query: "Sceloporus horridus mappable:1" ; Times: 1
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "Hormonotus modestus mappable:1" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "Leptopelis viridis" ; Times: 2
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus lifestage:larva" ; Times: 5
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "genus:Terrapene year &gt;= 2010 month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia mappable:1" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Phrynosoma asio mappable:1" ; Times: 1
+	Query: "Heterodon simus mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Philothamnus heterodermus mappable:1" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 2
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "Trachylepis albilabris mappable:1" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "Merritt institutioncode:UWBM" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "Anolis stratulus mappable:1" ; Times: 1
+	Query: "(UWBM) institutioncode:UWBM" ; Times: 1
+	Query: "navajo county crotaphytus" ; Times: 1
+	Query: "Varanus niloticus mappable:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 3
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "shinisaurus" ; Times: 2
+	Query: "elapsoidea sundevallii" ; Times: 2
+	Query: "specificepithet:debilis genus:Anaxyrus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Urosaurus bicarinatus mappable:1" ; Times: 1
+	Query: "order:Testudines institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;=2000" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 1
+	Query: "Hyperolius guttulatus mappable:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1263 download events in this period)
+Total number of records downloaded: 1151
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-24 ; Times: 5
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:sackii genus:Aspidoscelis" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:neomexicana genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1900" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "family:Hylidae hastissue:1" ; Times: 1
+	Query: "specificepithet:velox genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
