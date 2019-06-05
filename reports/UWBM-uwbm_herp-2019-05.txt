@@ -1,0 +1,158 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 1001
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: Micronesia ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Gabon ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 14
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-14 ; Times: 4
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-01 ; Times: 4
+	Date: 2019-05-19 ; Times: 5
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-08 ; Times: 7
+	Date: 2019-05-10 ; Times: 9
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-12 ; Times: 3
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus plicatus" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "order:Anura lengthtype:total length haslength:1" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 3
+	Query: "genus:plethodon hasmass:1" ; Times: 3
+	Query: "catalognumber:5755 institutioncode:UWBM" ; Times: 1
+	Query: "Trachylepis hasmass:1" ; Times: 6
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:vittiger" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus hasmass:1" ; Times: 1
+	Query: "uromastyx ornata" ; Times: 1
+	Query: "genus:spea institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Gonionotophis hastissue:1" ; Times: 1
+	Query: "genus:spea institutioncode:UWBM" ; Times: 2
+	Query: "bicanthalis" ; Times: 1
+	Query: "washoe Gambelia" ; Times: 1
+	Query: "Phrynobatrachus liberiensis" ; Times: 1
+	Query: "washoe Crotaphytus" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "genus:Spea institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "order:Anura lengthtype:snout-vent length range haslength:1" ; Times: 1
+	Query: "Trachemys scripta Ohio" ; Times: 2
+	Query: "sceloporus jalapae" ; Times: 5
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotaphopeltis hasmass:1" ; Times: 7
+	Query: "Glyptemys muhlenbergii skeleton" ; Times: 1
+	Query: "genus:Typhlops country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "0245" ; Times: 1
+	Query: "order:Anura lengthinmm &lt;= 12 hasmass:1" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:triunguis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia locality:Enewetak Atoll country:&#34;Marshall Islands&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:mexicanum genus:Ambystoma" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;arizona&#34; institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;arizona&#34; hastissue:1" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Phrynosoma taurus" ; Times: 1
+	Query: "catalognumber:5542 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Mochlus hasmass:1" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "order:anura lengthinmm &lt;= 12 hasmass:1" ; Times: 1
+	Query: "eunectes murinus murinus" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "catalognumber:568 institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 96
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 14
+	Country: Gabon ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "order:Anura lengthinmm &lt;= 12 hasmass:1" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Phrynobatrachus natalensis" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "specificepithet:mexicanum genus:Ambystoma" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "order:anura lengthinmm &lt;= 12 hasmass:1" ; Times: 1
+	Query: "Lygodactylus genus:Lygodactylus" ; Times: 1
+
+
+End of report.
