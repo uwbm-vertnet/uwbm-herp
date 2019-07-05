@@ -1,0 +1,236 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1185
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 153
+	Country: Uruguay ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-24 ; Times: 4
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 6
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 91
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-02 ; Times: 2
+	Date: 2019-06-10 ; Times: 29
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 5
+	Date: 2019-06-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Psammophis specificepithet:phillipsi" ; Times: 1
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 1
+	Query: "tarentola ephippiata" ; Times: 1
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 1
+	Query: "genus:Bronchocela specificepithet:cristatella" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 2
+	Query: "cougar" ; Times: 5
+	Query: "genus:Hoplobatrachus specificepithet:occipitalis" ; Times: 1
+	Query: "genus:Hoplobatrachus occipitalis" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 1
+	Query: "genus:Ninia specificepithet:sebae" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:fasciatus" ; Times: 1
+	Query: "genus:Philodryas specificepithet:baroni" ; Times: 1
+	Query: "genus:Hapsidophrys specificepithet:lineatus" ; Times: 1
+	Query: "genus:Sternotherus specificepithet:minor" ; Times: 2
+	Query: "genus:Elaphe specificepithet:flavolineata" ; Times: 1
+	Query: "Mauremys reevesii" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "genus:Varanus specificepithet:prasinus" ; Times: 2
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Hyla specificepithet:arenicolor" ; Times: 1
+	Query: "genus:Carphophis specificepithet:amoenus" ; Times: 1
+	Query: "genus:Glyptemys specificepithet:insculpta" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "specificepithet:taeniatus genus:Masticophis stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 1
+	Query: "locality:Lake Tapps stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:jalapae" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "Phrynobatrachus natalensis year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Gekko specificepithet:gecko" ; Times: 1
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 2
+	Query: "locality:Bay Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:taurus" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 1
+	Query: "locality:Spanaway Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 2
+	Query: "genus:Dermophis specificepithet:mexicanus" ; Times: 1
+	Query: "genus:Acrantophis specificepithet:dumerili" ; Times: 1
+	Query: "genus:Natriciteres" ; Times: 1
+	Query: "genus:Cophosaurus specificepithet:texanus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "genus:Hemisus specificepithet:marmoratus" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "genus:Cnemaspis specificepithet:spinicollis" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:orbiculare" ; Times: 1
+	Query: "genus:Dipsadoboa specificepithet:unicolor" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Charina year &gt;= 1990 hastissue:1" ; Times: 3
+	Query: "genus:Gavialis specificepithet:gangeticus" ; Times: 2
+	Query: "genus:Sceloporus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 3
+	Query: "genus:Xenopeltis specificepithet:unicolor" ; Times: 1
+	Query: "genus:Dicamptodon specificepithet:ensatus" ; Times: 1
+	Query: "cates" ; Times: 1
+	Query: "class:Reptilia locality:Enewetak country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Hylarana specificepithet:albolabris" ; Times: 1
+	Query: "genus:Astylosternus" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 1
+	Query: "beaver oregon" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:cowlesi" ; Times: 1
+	Query: "genus:Urosaurus specificepithet:graciosus" ; Times: 1
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "genus:Lycodon specificepithet:capucinus" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "genus:Trioceros specificepithet:jacksonii" ; Times: 1
+	Query: "genus:Shinisaurus specificepithet:crocodilurus" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 1
+	Query: "genus:Varanus specificepithet:komodoensis" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "genus:Eretmochelys specificepithet:imbricata" ; Times: 1
+	Query: "genus:Pangshura specificepithet:tecta" ; Times: 1
+	Query: "genus:Charina hastissue:1" ; Times: 1
+	Query: "genus:Lissemys specificepithet:punctata" ; Times: 1
+	Query: "genus:Ramphotyphlops specificepithet:braminus" ; Times: 1
+	Query: "genus:Kassina specificepithet:senegalensis" ; Times: 1
+	Query: "genus:Gyrinophilus specificepithet:porphyriticus" ; Times: 1
+	Query: "genus:Podocnemis specificepithet:unifilis" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 2
+	Query: "Tarentola ephippiata" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:asio" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Emydoidea specificepithet:blandingii" ; Times: 1
+	Query: "genus:Oligodon specificepithet:octolineatus" ; Times: 1
+	Query: "genus:Pelomedusa specificepithet:subrufa" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "genus:Emys specificepithet:orbicularis" ; Times: 1
+	Query: "genus:Crotaphopeltis specificepithet:hippocrepis" ; Times: 1
+	Query: "python hastissue:1" ; Times: 1
+	Query: "Cougar" ; Times: 2
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 1
+	Query: "genus:Anolis specificepithet:occultus" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "Phrynobatrachus natalensis year &gt;= 1750 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 3
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "genus:Varanus specificepithet:exanthematicus" ; Times: 1
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Atheris specificepithet:chlorechis" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 3
+	Query: "genus:Mesaspis specificepithet:moreletii" ; Times: 1
+	Query: "genus:Chrysopelea specificepithet:paradisi" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:obsoletus" ; Times: 1
+	Query: "gbifdatasetid:78122332-6315-41bd-914b-e9c1342d9093" ; Times: 1
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:smithi" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:senegalensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1182 download events in this period)
+Total number of records downloaded: 2757
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 6
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 7
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-03 ; Times: 11
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-12 ; Times: 3
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(frog)" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "Phrynobatrachus natalensis year &gt;= 1990 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "beaver oregon" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "BEAVER" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "eunectes" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "genus:Anolis" ; Times: 1
+	Query: "ensatina eschscholtzii" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "genus:Hoplobatrachus" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "rana cascadae" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "Xenopeltis" ; Times: 1
+
+
+End of report.
