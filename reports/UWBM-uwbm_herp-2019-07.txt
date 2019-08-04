@@ -1,0 +1,191 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 735
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 81
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-08 ; Times: 12
+	Date: 2019-07-18 ; Times: 20
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 5
+	Date: 2019-07-12 ; Times: 6
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-04 ; Times: 18
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-17 ; Times: 5
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-11 ; Times: 14
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Xenopus specificepithet:muelleri" ; Times: 1
+	Query: "Rana vaillanti mappable:1" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius preparations:skeleton" ; Times: 2
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "specificepithet:collaris genus:crotaphytus stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "genus:holbrookia county:&#34;navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "trachemys ornata" ; Times: 1
+	Query: "family:colubridae mappable:1 country:mexico year&gt;=2000 year&lt;=2009" ; Times: 1
+	Query: "jarrovi" ; Times: 1
+	Query: "genus:Incilius specificepithet:valliceps" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "class:amphibia county:&#34;jefferson&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Natriciteres" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 3
+	Query: "Anaxyrus punctatus hastissue:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 1
+	Query: "snake country:&#34;singapore&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:komodoensis genus:Varanus lifestage:adult basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1995 hastissue:1" ; Times: 1
+	Query: "Zonata zonata" ; Times: 2
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 1
+	Query: "specificepithet:boreas genus:anaxyrus preparations:Skeleton" ; Times: 3
+	Query: "anolis occultus" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "amphibian fetus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea class:amphibia county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea preparations:Skeleton" ; Times: 2
+	Query: "genus:Hyperolius specificepithet:nitidulus" ; Times: 1
+	Query: "Heterodon simus mappable:1" ; Times: 2
+	Query: "0671" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 12
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 4
+	Query: "specificepithet:alvarius genus:incilius preparations:Skeleton" ; Times: 3
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 4
+	Query: "genus:Sternotherus specificepithet:minor" ; Times: 1
+	Query: "vntype:specimen specificepithet:komodoensis genus:Varanus preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "gbifdatasetid:78122332-6315-41bd-914b-e9c1342d9093" ; Times: 1
+	Query: "genus:Agama institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "specificepithet:velox county:&#34;navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "W 65-52" ; Times: 1
+	Query: "Actinemys" ; Times: 3
+	Query: "genus:Crotalus county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hernandesi county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma class:reptilia county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 2
+	Query: "mauremys reevesii" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 20
+	Query: "0453" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 985 download events in this period)
+Total number of records downloaded: 332
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Portugal ; Times: 1
+	Country: Bhutan ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 6
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-26 ; Times: 4
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-30 ; Times: 8
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 19
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Pelomedusa" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "class:reptilia country:&#34;Singapore&#34;" ; Times: 1
+	Query: "vntype:specimen family:Testudinidae lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 2
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "lygodactylus" ; Times: 1
+
+
+End of report.
