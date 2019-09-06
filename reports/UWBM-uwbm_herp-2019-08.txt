@@ -1,0 +1,213 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1918
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 153
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-08 ; Times: 9
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-01 ; Times: 8
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-06 ; Times: 18
+	Date: 2019-08-07 ; Times: 6
+	Date: 2019-08-26 ; Times: 15
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-23 ; Times: 4
+	Date: 2019-08-20 ; Times: 9
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-17 ; Times: 35
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 16
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 7
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "specificepithet:latifrons genus:Phrynobatrachus" ; Times: 1
+	Query: "aspidoscelis inornata" ; Times: 1
+	Query: "recordnumber:LNJ 075 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Xenopus tropicalis mappable:1" ; Times: 2
+	Query: "specificepithet:tenebrosus genus:dicamptodon stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "recordnumber:ADL 4481" ; Times: 2
+	Query: "recordnumber:ADL 4482" ; Times: 2
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Aipysurus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "recordnumber:LNJ 021 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:8386 institutioncode:UWBM" ; Times: 2
+	Query: "Phrynobatrachus intermedius mappable:1" ; Times: 1
+	Query: "recordnumber:LNJ 076 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 059 institutioncode:UWBM" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "recordnumber:LNJ 061 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 040 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:olympicus genus:rhyacotriton stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 3
+	Query: "specificepithet:tenebrosus genus:dicamptodon stateprovince:&#34;Washington&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "genus:Pituophis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "recordnumber:LNJ 043 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 111 institutioncode:UWBM" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "recordnumber:LNJ 109 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "recordnumber:LNJ 124 institutioncode:UWBM" ; Times: 1
+	Query: "amphibian macon county georgia" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "recordnumber:LNJ 069 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ institutioncode:UWBM" ; Times: 1
+	Query: "Rana aurora" ; Times: 12
+	Query: "recordnumber:LNJ 102 institutioncode:UWBM" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 8
+	Query: "recordnumber:LNJ 019 institutioncode:UWBM" ; Times: 3
+	Query: "recordnumber:LNJ 128 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 3
+	Query: "Carphophis amoenus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:typhonius" ; Times: 1
+	Query: "recordnumber:LNJ 100 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:8387 institutioncode:UWBM" ; Times: 2
+	Query: "recordnumber:LNJ 036 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 033 institutioncode:UWBM" ; Times: 1
+	Query: "class:Reptilia locality:Enewetak country:&#34;Marshall Islands&#34; year &gt;= 1952" ; Times: 1
+	Query: "family:Rhyacotritonidae institutioncode:UWBM" ; Times: 3
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "recordnumber:LNJ 107 institutioncode:UWBM" ; Times: 1
+	Query: "amphibia Macon county georgia" ; Times: 1
+	Query: "recordnumber:LNJ 058 institutioncode:UWBM" ; Times: 2
+	Query: "genus:Actinemys specificepithet:marmorata" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Washoe&#34;" ; Times: 1
+	Query: "genus:coluber stateprovince:&#34;sonora&#34;" ; Times: 1
+	Query: "Cardioglossa" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 1960 year &lt;= 2019" ; Times: 2
+	Query: "recordnumber:LNJ 110 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:vandykei genus:plethodon stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "catalognumber:244" ; Times: 1
+	Query: "recordnumber:LNJ 024 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 050 institutioncode:UWBM" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "recordnumber:LNJ 055 institutioncode:UWBM" ; Times: 1
+	Query: "Phrynobatrachus ghanensis mappable:1" ; Times: 1
+	Query: "anolis occultus" ; Times: 8
+	Query: "genus:ensatina stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "recordnumber:LNJ 072 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 037 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "recordnumber:LNJ 121 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:ADL 4482 institutioncode:UWBM" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "recordnumber:LNJ 003 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 015 institutioncode:UWBM" ; Times: 1
+	Query: "Incilius alvarius mappable:1" ; Times: 3
+	Query: "recordnumber:114 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:Scalaris stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Washington&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:inornata family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 1
+	Query: "recordnumber:LNJ 074 institutioncode:UWBM" ; Times: 1
+	Query: "eublepharis" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "class:Amphibia locality:Seattle stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:taurus genus:Phrynosoma" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1034 download events in this period)
+Total number of records downloaded: 298
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-01 ; Times: 8
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 2
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis mentovarius" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "Varanidae" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "specificepithet:inornata family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
