@@ -1,0 +1,173 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 2116
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 101
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 7
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 8
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 32
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-21 ; Times: 10
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 7
+	Date: 2019-09-22 ; Times: 5
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:mixe genus:Megastomatohyla" ; Times: 1
+	Query: "class:reptilia locality:Gbarpolu country:&#34;liberia&#34;" ; Times: 1
+	Query: "Rico 253" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "anolis occultus" ; Times: 5
+	Query: "Ecnomiohyla" ; Times: 3
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Ventura county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "9121 hemidactylus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UWBM" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "woodhousii (Bufo or Anaxyrus)" ; Times: 1
+	Query: "recordnumber:ADL 4482 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:1779 institutioncode:UWBM" ; Times: 1
+	Query: "boreas vntype:specimen stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 30
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "genus:Phrynosoma class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 3
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "9120 hemidactylus" ; Times: 1
+	Query: "specificepithet:microps genus:Phrynomantis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ)" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charadrahyla specificepithet:nephila" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "uwbm 1180" ; Times: 1
+	Query: "genus:heloderma" ; Times: 2
+	Query: "recordedby:hatch year &gt;= 1910 year &lt;= 1930" ; Times: 1
+	Query: "class:amphibia locality:Gbarpolu country:&#34;liberia&#34;" ; Times: 1
+	Query: "Herpetology R-9249" ; Times: 2
+	Query: "Ascaphus truei institutioncode:UWBM" ; Times: 4
+	Query: "vntype:specimen specificepithet:marmorata genus:Actinemys (alcohol OR ethanol)" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Trachylepis albilabris mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "boulengeri institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:larselli genus:Plethodon" ; Times: 1
+	Query: "class:amphibia country:&#34;liberia&#34;" ; Times: 3
+	Query: "punctatus (Bufo or Anaxyrus)" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 2
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:douglasii genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pallida OR marmorata genus:Clemmys (alcohol OR ethanol)" ; Times: 1
+	Query: "Pinotepa" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 7
+	Query: "vntype:specimen specificepithet:marmorata genus:Actinemys (alcohol OR ethanol) basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1073 download events in this period)
+Total number of records downloaded: 171
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Brunei ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 24
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 4
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "boreas" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "order:anura lengthtype:snout-vent length haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "punctatus (Bufo or Anaxyrus)" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus hastissue:1" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus hastissue:1" ; Times: 2
+	Query: "genus:dicamptodon county:&#34;marin&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:douglasii genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "Pinotepa" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+
+
+End of report.
