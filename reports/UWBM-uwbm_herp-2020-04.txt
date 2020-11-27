@@ -1,0 +1,200 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 301
+Number of records retrieved in searches: 1343
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United Kingdom ; Times: 49
+	Country: Australia ; Times: 1
+	Country: Algeria ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: India ; Times: 6
+	Country: Montenegro ; Times: 1
+	Country: United States ; Times: 192
+	Country: Ethiopia ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Brazil ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-07 ; Times: 16
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-20 ; Times: 69
+	Date: 2020-04-21 ; Times: 56
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-19 ; Times: 21
+	Date: 2020-04-18 ; Times: 18
+	Date: 2020-04-13 ; Times: 3
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 15
+	Date: 2020-04-16 ; Times: 28
+	Date: 2020-04-15 ; Times: 26
+	Date: 2020-04-14 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:total length haslength:1" ; Times: 2
+	Query: "Sceloporus exsul" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "genus:Glyptemys insculpta" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 3
+	Query: "Oligodon" ; Times: 1
+	Query: "specificepithet:insculpta genus:Glyptemys" ; Times: 3
+	Query: "fruit flies" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 10
+	Query: "genus:Ambystoma lengthtype:total length haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Arthroleptis poecilonotus institutioncode:UWBM" ; Times: 1
+	Query: "Echis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Silurana tropicalis" ; Times: 4
+	Query: "eunectes murinus" ; Times: 1
+	Query: "specificepithet:striatula stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "order:Squamata county:&#34;Malheur&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "duellmanohyla ignicolor" ; Times: 5
+	Query: "Sclerophrys xeros" ; Times: 7
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 10
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "specificepithet:vandykei county:&#34;skamania&#34;" ; Times: 1
+	Query: "Eleutherodactylus rubrimaculatus" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "family:colubridae county:&#34;Malheur&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "Phrynobatrachus latifrons" ; Times: 4
+	Query: "Hoplobatrachus occipitalis" ; Times: 4
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 140
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "dermatemys" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 6
+	Query: "vntype:specimen genus:Lygodactylus haslength:1" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Charadrahyla nephila" ; Times: 9
+	Query: "institutioncode:uwbm" ; Times: 5
+	Query: "anura lengthtype:snout-vent length range" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:cerastes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 18
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 2
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1171 download events in this period)
+Total number of records downloaded: 1770
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 52
+	Country: Australia ; Times: 7
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 6
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 5
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 20
+	Date: 2020-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "genus:arthroleptis hastissue:1" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:montanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 2
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "vntype:specimen specificepithet:cowlesi genus:Sceloporus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus" ; Times: 2
+	Query: "chelonia mydas" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "turtle length" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "anura lengthtype:snout-vent length range" ; Times: 1
+	Query: "specificepithet:moreletii genus:Mesaspis" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:cerastes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
