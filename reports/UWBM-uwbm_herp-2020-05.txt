@@ -1,0 +1,206 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 337
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 35
+	Country: Sweden ; Times: 11
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 17
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 6
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 4
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-09 ; Times: 3
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 10
+	Query: "imantodes gemmistratus Panama" ; Times: 1
+	Query: "genus:Dermophis stateprovince:&#34;Chiapas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "Crotalus county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Crotaphopeltis hippocrepis" ; Times: 1
+	Query: "genus:conraua hastissue:1" ; Times: 1
+	Query: "Coluber constrictor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Dicamptodon tenebrosus county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Batrachoseps wrighti county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "ambystoma mexicanum 1798" ; Times: 1
+	Query: "Batrachoseps wrighti county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Sceloporus preparations:skeleton" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "ACRANTOPHIS" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NUM" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "genus:Ecnomiohyla specificepithet:miotympanum" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:coerulea country:&#34;canada&#34;" ; Times: 2
+	Query: "Coluber constrictor county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Gonionotophis klingi" ; Times: 2
+	Query: "Batrachoseps wrighti county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus edwardtaylori" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lycophidion nigromaculatum" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2009 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Coluber flagellum flagellum" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Thamnophis ordinoides county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:dicamptodon stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum 1798" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1106 download events in this period)
+Total number of records downloaded: 1470
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 11
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 7
+	Country: United States ; Times: 45
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 7
+	Date: 2020-05-19 ; Times: 10
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-05 ; Times: 8
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "emydoidea" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "Crotaphopeltis hippocrepis" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:anura continent:africa" ; Times: 1
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Dipsadoboa unicolor" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Gonionotophis klingi" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Lycophidion nigromaculatum" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "sceloporus edwardtaylori" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "Xenochrophis vittatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Taricha granulosa male" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Sceloporus dugesii" ; Times: 1
+	Query: "genus:Uta stansburiana country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+
+
+End of report.
