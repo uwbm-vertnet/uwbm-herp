@@ -1,0 +1,223 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 1299
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 59
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 22
+	Country: Philippines ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Mozambique ; Times: 1
+	Country: China ; Times: 11
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 9
+	Date: 2019-10-22 ; Times: 11
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 13
+	Date: 2019-10-26 ; Times: 10
+	Date: 2019-10-25 ; Times: 8
+	Date: 2019-10-24 ; Times: 20
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 4
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Rana vaillanti mappable:1" ; Times: 3
+	Query: "ADL 4513" ; Times: 2
+	Query: "Gopherus agassizii 2012" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "Gopherus agassizii 2019" ; Times: 2
+	Query: "Phrynobatrachus ghanensis" ; Times: 1
+	Query: "family:helodermatidae" ; Times: 1
+	Query: "specificepithet:regilla genus:pseudacris hastissue:1" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "specificepithet:tristichus genus:sceloporus hastissue:1" ; Times: 1
+	Query: "lengthinmm &gt;= 100 lengthinmm &lt;= 200 lengthtype:snout-vent length range" ; Times: 1
+	Query: "Hyperolius picturatus" ; Times: 1
+	Query: "specificepithet:tropicalis genus:xenopus hastissue:1" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 4
+	Query: "genus:Tlalocohyla specificepithet:picta" ; Times: 1
+	Query: "Kassina arboricola" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus" ; Times: 1
+	Query: "lengthinmm &gt;= 200 lengthinmm &lt;= 1000 lengthtype:snout-vent length range" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 2
+	Query: "Gopherus agassizii 1984" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Phrynobatrachus phyllophilus" ; Times: 1
+	Query: "Crocodylus acutus 2012" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "Phrynobatrachus fraterculus" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "Crocodylus acutus 1972" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Ptychadena aequiplicata" ; Times: 1
+	Query: "Hyperolius laurenti" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:cowlesi genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 3
+	Query: "ADL 4515" ; Times: 1
+	Query: "ADL 4514" ; Times: 1
+	Query: "ADL 4516" ; Times: 2
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "ADL 4485" ; Times: 1
+	Query: "ADL 4484" ; Times: 2
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Ptychohyla zophodes" ; Times: 1
+	Query: "Drymarchon couperi 1985" ; Times: 1
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "Drymarchon couperi 2019" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 3
+	Query: "Ptychadena longirostris" ; Times: 1
+	Query: "Phrynobatrachus liberiensis" ; Times: 1
+	Query: "specificepithet:occidentalis stateprovince:&#34;nevada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "gender" ; Times: 3
+	Query: "specificepithet:pretiosa genus:Rana stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "genus:Gopherus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Crocodylus acutus 2019" ; Times: 1
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:gecko genus:gekko country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 2
+	Query: "Phrynobatrachus intermedius" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue" ; Times: 1
+	Query: "paedomorph genus:Ambystoma" ; Times: 7
+	Query: "macrodactylum Ambystoma" ; Times: 20
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1308 download events in this period)
+Total number of records downloaded: 2849
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 23
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 20
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 4
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 5
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-20 ; Times: 18
+	Date: 2019-10-19 ; Times: 8
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynobatrachus alleni" ; Times: 1
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Phrynobatrachus ghanensis" ; Times: 2
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Hyperolius picturatus" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "Hyperolius bobirensis" ; Times: 3
+	Query: "xenopus tropicalis" ; Times: 2
+	Query: "Kassina arboricola" ; Times: 1
+	Query: "Astylosternus occidentalis" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Leptopelis occidentalis" ; Times: 1
+	Query: "Hyperolius guttulatus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Phrynobatrachus phyllophilus" ; Times: 2
+	Query: "order:anura lifestage:adult lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "Leptopelis macrotis" ; Times: 1
+	Query: "Phrynobatrachus fraterculus" ; Times: 2
+	Query: "Hyperolius concolor" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Ptychadena aequiplicata" ; Times: 2
+	Query: "Phrynobatrachus plicatus" ; Times: 1
+	Query: "Hyperolius laurenti" ; Times: 1
+	Query: "Afrixalus nigeriensis" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(36.232556717823115,-120.1208661486329))&lt;338269.069619651" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "specificepithet:boylii genus:Rana year &gt;= 1980" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hyperolius chlorosteus" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 1
+	Query: "Ptychadena longirostris" ; Times: 2
+	Query: "Phrynobatrachus liberiensis" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Hyperolius sylvaticus" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "astylosternus" ; Times: 1
+	Query: "Phrynobatrachus intermedius" ; Times: 2
+	Query: "Hyperolius fusciventris" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
