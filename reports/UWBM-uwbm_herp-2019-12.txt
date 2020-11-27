@@ -1,0 +1,166 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 318
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 75
+	Country: Germany ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Thailand ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 18
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-22 ; Times: 16
+	Date: 2019-12-03 ; Times: 5
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-18 ; Times: 6
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 2
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 10
+	Date: 2019-12-11 ; Times: 4
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-14 ; Times: 6
+	Date: 2019-12-02 ; Times: 32
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sanzinia madagascariensis haslength:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus county:&#34;pierce&#34; stateprovince:&#34;Washington&#34;" ; Times: 5
+	Query: "specificepithet:blainvillii class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "Ptychadena mascareniensis hasmass:1" ; Times: 1
+	Query: "Testudo graeca haslength:1" ; Times: 1
+	Query: "Masticophis mentovarius haslength:1" ; Times: 1
+	Query: "specificepithet:valliceps genus:Incilius" ; Times: 2
+	Query: "Lamprophis fuliginosus haslength:1" ; Times: 1
+	Query: "Sceloporus spinosus haslength:1" ; Times: 1
+	Query: "Mauremys reevesii haslength:1" ; Times: 1
+	Query: "Phrynosoma orbiculare haslength:1" ; Times: 1
+	Query: "Dispholidus typus haslength:1" ; Times: 1
+	Query: "recordnumber:LNJ 010 institutioncode:UWBM" ; Times: 1
+	Query: "Ninia sebae haslength:1" ; Times: 1
+	Query: "Sceloporus mucronatus haslength:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "catalognumber:8115 institutioncode:UWBM" ; Times: 3
+	Query: "recordedby:Jeff Streicher" ; Times: 1
+	Query: "Hylarana albolabris mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Trachemys scripta elegans hasmass:1" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:horsfieldii genus:testudo" ; Times: 7
+	Query: "Ptychadena aequiplicata mappable:1" ; Times: 1
+	Query: "Trachemys scripta haslength:1" ; Times: 1
+	Query: "specificepithet:wislizenii class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "recordnumber:LNJ 003 institutioncode:UWBM" ; Times: 3
+	Query: "Stenorrhina freminvillei haslength:1" ; Times: 1
+	Query: "recordnumber:ADL 4482 institutioncode:UWBM" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Eunectes murinus hasmass:1" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 1
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "specificepithet:orcutti genus:sceloporus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Acrantophis dumerili hasmass:1" ; Times: 1
+	Query: "catalognumber:8386 institutioncode:UWBM" ; Times: 5
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "catalognumber:8718 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:platyrhinos class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus year &gt;= 2015 year &lt;= 2017" ; Times: 2
+	Query: "catalognumber:8748 institutioncode:UWBM" ; Times: 3
+	Query: "catalognumber:8758 institutioncode:UWBM" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:catenifer class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "family:hemisotidae hastissue:1" ; Times: 1
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "genus:sceloporus county:&#34;pierce&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Ptychadena mascareniensis haslength:1" ; Times: 1
+	Query: "catalognumber:8385 institutioncode:UWBM" ; Times: 1
+	Query: "recordnumber:LNJ 007 institutioncode:UWBM" ; Times: 1
+	Query: "Varanus exanthematicus haslength:1" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "Pseudacris regilla mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "Chelydra serpentina haslength:1" ; Times: 1
+	Query: "Eunectes notaeus hasmass:1" ; Times: 1
+	Query: "recordnumber:LNJ 017 institutioncode:UWBM" ; Times: 1
+	Query: "Trachemys scripta hasmass:1" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "specificepithet:xeros genus:Sclerophrys" ; Times: 2
+	Query: "Imantodes gemmistratus haslength:1" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 2
+	Query: "Amnirana albolabris mappable:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 2
+	Query: "Sceloporus jalapae haslength:1" ; Times: 1
+	Query: "aspidoscelis sackii mexico" ; Times: 1
+	Query: "catalognumber:8387 institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 3
+	Query: "recordedby:Streicher" ; Times: 2
+	Query: "Varanus exanthematicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 596 download events in this period)
+Total number of records downloaded: 66
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 8
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 8
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Desmognathus" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "shinisaurus crocodilurus" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Mesaspis moreletii" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
