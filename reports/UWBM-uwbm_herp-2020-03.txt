@@ -1,0 +1,172 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ukraine ; Times: 3
+	Country: Algeria ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 37
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 6
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-03 ; Times: 5
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-01 ; Times: 3
+	Date: 2020-03-07 ; Times: 3
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "stateprovince:&#34;Chiapas&#34; institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "specificepithet:rubrimaculatus" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis hastissue:1" ; Times: 1
+	Query: "(frog) AND (NOT Australia) haslength:1" ; Times: 2
+	Query: "catalognumber:8115 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "Ambystoma jefferson" ; Times: 2
+	Query: "specificepithet:marmorata genus:Actinemys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stenorrhina" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Contia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Anolis krugi" ; Times: 2
+	Query: "Anolis cuvieri" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;florida&#34; hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "order:anura (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "catalognumber:6600 institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:8114 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:8748 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 1
+	Query: "catalognumber:8758 institutioncode:UWBM" ; Times: 1
+	Query: "Astylosternus laticephalus" ; Times: 2
+	Query: "Elapsoidea sundevallii" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;san diego&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Heterodon simus" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "Anolis evermanni" ; Times: 2
+	Query: "Echis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Phrynosoma hastissue:1" ; Times: 1
+	Query: "genus:Coluber class:Reptilia stateprovince:&#34;Washington&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "Anolis occultus" ; Times: 1
+	Query: "Lygodactylus picturatus year &gt;= 2000" ; Times: 1
+	Query: "Anolis gundlachi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 853 download events in this period)
+Total number of records downloaded: 871
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Cuba ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-02 ; Times: 5
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blandingii" ; Times: 1
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:woodi genus:sceloporus" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "genus:Coluber" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "genus:Rana specificepithet:cascadae" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "genus:Trachycephalus family:Hylidae" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "genus:Masticophis" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea" ; Times: 1
+	Query: "genus:Astylosternus hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Astylosternus laticephalus" ; Times: 1
+	Query: "masticophis mentovarius" ; Times: 1
+	Query: "plethodon montanus" ; Times: 1
+	Query: "shinisaurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "reptile (puebla)" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "Shinisaurus" ; Times: 1
+	Query: "Trachycephalus" ; Times: 1
+
+
+End of report.
