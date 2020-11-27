@@ -1,0 +1,167 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 516
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 86
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 29
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-30 ; Times: 3
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-16 ; Times: 10
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-10 ; Times: 5
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 23
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-08 ; Times: 12
+	Date: 2019-11-09 ; Times: 10
+	Date: 2019-11-28 ; Times: 9
+	Date: 2019-11-07 ; Times: 26
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "recordnumber:4482 institutioncode:UWBM" ; Times: 2
+	Query: "Gopherus agassizii 2012" ; Times: 7
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Naja preparations:tissue" ; Times: 1
+	Query: "Gopherus agassizii 1984" ; Times: 7
+	Query: "Gopherus agassizii 2019" ; Times: 14
+	Query: "Phrynobatrachus ghanensis mappable:1" ; Times: 1
+	Query: "Drymarchon couperi 2019" ; Times: 4
+	Query: "genus:Gonionotophis preparations:tissue" ; Times: 13
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "william leonard stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Hylarana albolabris mappable:1" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 4
+	Query: "genus:Hormonotus preparations:tissue" ; Times: 10
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Amnirana albolabris mappable:1" ; Times: 3
+	Query: "Varanus prasinus" ; Times: 2
+	Query: "Crocodylus acutus 2012" ; Times: 4
+	Query: "Drymarchon couperi 1985" ; Times: 4
+	Query: "Crocodylus acutus 2019" ; Times: 4
+	Query: "Chiromantis rufescens mappable:1" ; Times: 1
+	Query: "specificepithet:Larselli genus:Plethodon" ; Times: 2
+	Query: "william leonard specificepithet:cascadae genus:rana stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "catalognumber:8386 institutioncode:UWBM" ; Times: 1
+	Query: "Phrynobatrachus intermedius mappable:1" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 1
+	Query: "william leonard genus:rana stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Lycophidion preparations:tissue" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "phrynosoma asio mexico" ; Times: 1
+	Query: "Crocodylus acutus 1972" ; Times: 4
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "phrynosoma morelos" ; Times: 1
+	Query: "recordnumber:4481 institutioncode:UWBM" ; Times: 3
+	Query: "vntype:specimen order:Caudata lifestage:larvae" ; Times: 2
+	Query: "(LNJ) institutioncode:UWBM" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "vntype:specimen genus:Lygodactylus hastissue:1" ; Times: 2
+	Query: "vntype:specimen order:Caudata lifestage:larval" ; Times: 1
+	Query: "recordnumber:0245" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "catalognumber:942" ; Times: 1
+	Query: "genus:Lygodactylus country:&#34;Ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus county:&#34;Malheur&#34;" ; Times: 1
+	Query: "uwbm 3721" ; Times: 1
+	Query: "catalognumber:8387 institutioncode:UWBM" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue" ; Times: 3
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1367 download events in this period)
+Total number of records downloaded: 902
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: China ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 8
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lygodactylus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:egg" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "genus:Arizona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum genus:Plethodon" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Anolis pulchellus" ; Times: 1
+	Query: "(LNJ) institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis year &gt;= 1960 hastissue:1" ; Times: 1
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Psammophis preparations:tissue" ; Times: 2
+
+
+End of report.
