@@ -1,0 +1,86 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 244
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 42
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-08 ; Times: 9
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 20
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Conraua institutioncode:UWBM" ; Times: 2
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "genus:Conraua institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Ptychohyla acrochorda" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "axolotl" ; Times: 4
+	Query: "Afrixalus dorsalis mappable:1" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 4
+	Query: "specificepithet:derooi genus:Conraua" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 19
+	Query: "schmidtorum" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "genus:Amnirana specificepithet:albolabris" ; Times: 2
+	Query: "Duellmanohyla ignicolor" ; Times: 9
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 2
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "Duellmanohyla schmidtorum" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 474 download events in this period)
+Total number of records downloaded: 925
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "muskrat" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "order:Gymnophiona year &gt;= 2000 hastissue:1" ; Times: 4
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "axolotl" ; Times: 2
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
