@@ -1,0 +1,143 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 394
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 1
+	Country: Italy ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-17 ; Times: 4
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 4
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 9
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-18 ; Times: 6
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-03 ; Times: 4
+	Date: 2020-08-04 ; Times: 10
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Caudata institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 2
+	Query: "Atractaspis aterrima" ; Times: 1
+	Query: "Crocodylus acutus 1972" ; Times: 5
+	Query: "specificepithet:schubotzi class:amphibia haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Varanus niloticus" ; Times: 1
+	Query: "Thamnophis sirtalis fitchi" ; Times: 2
+	Query: "Glyptemys muhlenbergii" ; Times: 5
+	Query: "specificepithet:berlandieri genus:Gopherus" ; Times: 2
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UWBM" ; Times: 1
+	Query: "genus:Echis year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Actinemys" ; Times: 1
+	Query: "xenopus tropicalis" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:longirostris class:amphibia haslength:1" ; Times: 1
+	Query: "Silurana tropicalis" ; Times: 1
+	Query: "stenorrhina freminvillei" ; Times: 1
+	Query: "specificepithet:woodi genus:sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:taeniopus genus:Charadrahyla" ; Times: 1
+	Query: "Crocodylus acutus 2012" ; Times: 5
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:UWBM" ; Times: 1
+	Query: "Crocodylus acutus 2019" ; Times: 3
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:UWBM" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 2000 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pelomedusa subrufa" ; Times: 1
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 4
+	Query: "vntype:specimen specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 1980 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Chrysopelea paradisi paradisi" ; Times: 1
+	Query: "specificepithet:annularis genus:tarentola country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:ephippiata genus:Tarentola institutioncode:UWBM" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "catalognumber:8302 institutioncode:UWBM" ; Times: 2
+	Query: "catalognumber:8387 institutioncode:UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 756 download events in this period)
+Total number of records downloaded: 3288
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Caudata institutioncode:UWBM" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "imantodes gemmistratus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "ninia sebae" ; Times: 1
+	Query: "specificepithet:schubotzi class:amphibia haslength:1" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "genus:Hemidactylus hasmass:1" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "stenorrhina freminvillei" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+
+
+End of report.
