@@ -1,0 +1,192 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1092
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 70
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-18 ; Times: 4
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-10 ; Times: 4
+	Date: 2020-10-11 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 9
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-22 ; Times: 30
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 4
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 8
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-30 ; Times: 7
+	Date: 2020-10-29 ; Times: 6
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 13
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "UWBM 433" ; Times: 1
+	Query: "Sceloporus exsul" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 3
+	Query: "order:Caudata county:&#34;Skagit&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:baudinii genus:smilisca stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia haslength:1" ; Times: 1
+	Query: "Crotaphopeltis hippocrepis" ; Times: 5
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "UWBM 6397" ; Times: 1
+	Query: "UWBM 6391" ; Times: 1
+	Query: "ECNOMIOHYLA MIOTYMPANUM" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "genus:Chelonia hastissue:1" ; Times: 2
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UWBM" ; Times: 1
+	Query: "specificepithet:underwoodi genus:dipsadoboa year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:masticophis county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:UWBM" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "specificepithet:modestus genus:hormonotus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "PHRYNOSOMA BRACONNIERI" ; Times: 1
+	Query: "genus:Megastomatohyla specificepithet:mixe" ; Times: 2
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;butte&#34;" ; Times: 1
+	Query: "0773" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "genus:Ecnomiohyla specificepithet:miotympanum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Hylarana haslength:1" ; Times: 1
+	Query: "specificepithet:viridis genus:dipsadoboa year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 13
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "UWBM 82375" ; Times: 1
+	Query: "ecnomiohyla miotympanum" ; Times: 1
+	Query: "genus:Phlyctimantis haslength:1" ; Times: 1
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:unicolor genus:dipsadoboa year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "specificepithet:orbiculare genus:phrynosoma year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Causus maculatus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "Crotaphopeltis" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:ephippiata genus:Tarentola institutioncode:UWBM" ; Times: 1
+	Query: "UWBM 6833" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 4
+	Query: "specificepithet:baudinii genus:Smilisca stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 4
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 1
+	Query: "Charadrahyla nephila" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis county:&#34;butte&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Hapsidophrys year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 32
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 5
+	Query: "genus:crotalus county:&#34;siskiyou&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1521 download events in this period)
+Total number of records downloaded: 3250
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 4
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ethiopia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 7
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-22 ; Times: 25
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 4
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 11
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ECNOMIOHYLA MIOTYMPANUM" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 2
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "genus:Hyperolius haslength:1" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "genus:Rana haslength:1" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "genus:Hylarana haslength:1" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Crotalinae" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia haslength:1" ; Times: 1
+	Query: "genus:Phrynobatrachus haslength:1" ; Times: 1
+	Query: "ecnomiohyla miotympanum" ; Times: 1
+	Query: "genus:Phlyctimantis haslength:1" ; Times: 1
+	Query: "order:Gymnophiona hastissue:1" ; Times: 4
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "genus:Pseudotriton class:Amphibia haslength:1" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia haslength:1" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 30
+	Query: "Hylarana" ; Times: 1
+
+
+End of report.
