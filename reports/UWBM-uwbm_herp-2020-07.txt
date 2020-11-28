@@ -1,0 +1,192 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1224
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 106
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 12
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 11
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-29 ; Times: 14
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 4
+	Date: 2020-07-30 ; Times: 29
+	Date: 2020-07-10 ; Times: 4
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 10
+	Date: 2020-07-31 ; Times: 7
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "naja naja" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "varanus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34; institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Atractaspis aterrima" ; Times: 2
+	Query: "lycodon" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "genus:gambelia stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Hyperolius fusciventris mappable:1" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton stateprovince:&#34;Washington&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "genus:Dermophis order:Gymnophiona AND (NOT Geotrypetes NOT Schistometopum NOT Herpele) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 3
+	Query: "Hyperolius concolor mappable:1" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 5
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:niloticus genus:varanus hastissue:1" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Hyperolius sylvaticus mappable:1" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Leptopelis viridis mappable:1" ; Times: 4
+	Query: "7333 spea" ; Times: 1
+	Query: "Pseudacris brimleyi" ; Times: 2
+	Query: "Hyperolius nitidulus mappable:1" ; Times: 1
+	Query: "7336 spea" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Afrixalus fulvovittatus mappable:1" ; Times: 2
+	Query: "corallus caninus" ; Times: 5
+	Query: "specificepithet:constrictor genus:coluber hastissue:1" ; Times: 1
+	Query: "Crocodylus acutus 1972" ; Times: 2
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Rana catesbeiana haslength:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "order:Gymnophiona AND (NOT Geotrypetes NOT Schistometopum NOT Herpele) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Bolitoglossa mulleri" ; Times: 3
+	Query: "genus:ptyodactylus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:taeniatus class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 2
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Xantusia Sonora" ; Times: 10
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "Hyperolius guttulatus mappable:1" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;siskiyou&#34;" ; Times: 2
+	Query: "Crocodylus acutus 2012" ; Times: 2
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "Hemisus marmoratus mappable:1" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "Crocodylus acutus 2019" ; Times: 2
+	Query: "specificepithet:pretiosa genus:rana stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 3
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Cardioglossa leucomystax mappable:1" ; Times: 2
+	Query: "Plethodon dunni" ; Times: 3
+	Query: "Batrachoseps wrighti" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 940 download events in this period)
+Total number of records downloaded: 7411
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "specificepithet:douglasii genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2001 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:Scincidae lengthtype:snout-vent length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+
+
+End of report.
