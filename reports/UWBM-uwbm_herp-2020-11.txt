@@ -1,0 +1,189 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 243
+Number of records retrieved in searches: 1372
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 54
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 172
+	Country: Togo ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 13
+	Date: 2020-11-21 ; Times: 11
+	Date: 2020-11-22 ; Times: 38
+	Date: 2020-11-23 ; Times: 23
+	Date: 2020-11-24 ; Times: 3
+	Date: 2020-11-25 ; Times: 9
+	Date: 2020-11-08 ; Times: 17
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-06 ; Times: 6
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 6
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-01 ; Times: 3
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-19 ; Times: 15
+	Date: 2020-11-18 ; Times: 5
+	Date: 2020-11-30 ; Times: 18
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-17 ; Times: 13
+	Date: 2020-11-16 ; Times: 9
+	Date: 2020-11-11 ; Times: 12
+	Date: 2020-11-10 ; Times: 6
+	Date: 2020-11-12 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana vntype:specimen institutioncode:UWBM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 5
+	Query: "scientificname:Hypopachus variolosus" ; Times: 1
+	Query: "Ensatina eschscholtzii vntype:specimen institutioncode:UWBM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "(diadophis punctatus) distance(location,geopoint(47.00081813947623,-120.51230830692508))&lt;484241" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "(diadophis punctatus) distance(location,geopoint(46.67012887433101,-120.99570674442508))&lt;100000" ; Times: 1
+	Query: "genus:Pituophis preparations:skull" ; Times: 2
+	Query: "genus:Ensatina institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Ascaphus truei institutioncode:UWBM hastissue:1" ; Times: 3
+	Query: "Smilisca cyanosticta" ; Times: 8
+	Query: "Tlalocohyla picta" ; Times: 8
+	Query: "genus:Anaxyrus haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Chelonia hastissue:1" ; Times: 1
+	Query: "Charadrahyla taeniopus" ; Times: 1
+	Query: "scientificname:Anaxyrus debilis" ; Times: 2
+	Query: "Trachycephalus typhonius" ; Times: 9
+	Query: "Glyptemys insculpta." ; Times: 4
+	Query: "genus:Tlalocohyla specificepithet:picta" ; Times: 1
+	Query: "scientificname:Hyla arenicolor" ; Times: 1
+	Query: "genus:Phlyctimantis class:Amphibia haslength:1" ; Times: 4
+	Query: "genus:Pituophis preparations:skull institutioncode:UWBM" ; Times: 1
+	Query: "genus:Pituophis country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Plethodon vehiculum vntype:specimen institutioncode:UWBM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Guanajuato&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma macrodactylum vntype:specimen institutioncode:UWBM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "ambystoma mabeei north carolina" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "scientificname:Incilius valliceps" ; Times: 1
+	Query: "ambystoma gracile institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "dicamptodon institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Echis ocellatus" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "trachycephalus typhonius" ; Times: 2
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Ensatina eschscholtzii institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 114
+	Query: "hoplobatrachus occipitalis" ; Times: 3
+	Query: "Phrynomantis microps" ; Times: 2
+	Query: "tlalocohyla picta" ; Times: 2
+	Query: "scientificname:Hyla eximia" ; Times: 2
+	Query: "pseudacris regilla institutioncode:UWBM hastissue:1" ; Times: 2
+	Query: "plethodon institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Conraua derooi" ; Times: 1
+	Query: "Ptychohyla zophodes" ; Times: 2
+	Query: "Ecnomiohyla miotympanum" ; Times: 3
+	Query: "Ambystoma talpoideum stateprovince:&#34;north carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:6911 institutioncode:UWBM" ; Times: 2
+	Query: "scientificname:Anaxyrus punctatus" ; Times: 2
+	Query: "Charadrahyla" ; Times: 1
+	Query: "(diadophis punctatus) distance(location,geopoint(47.00081813947623,-120.51230830692508))&lt;264498" ; Times: 1
+	Query: "rhyacotriton institutioncode:UWBM hastissue:1" ; Times: 2
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 3
+	Query: "specificepithet:copei genus:Dicamptodon" ; Times: 1
+	Query: "scientificname:Smilisca baudinii" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Ambystoma macrodactylum institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "Charadrahyla nephila" ; Times: 2
+	Query: "(diadophis punctatus) distance(location,geopoint(47.00081813947623,-120.51230830692508))&lt;181962" ; Times: 1
+	Query: "(diadophis punctatus) distance(location,geopoint(46.67012887433101,-120.99570674442508))&lt;140274" ; Times: 1
+	Query: "specificepithet:cristatellus genus:Anolis haslength:1" ; Times: 2
+	Query: "scientificname:Ecnomiohyla miotympanum" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 5
+	Query: "(diadophis punctatus) distance(location,geopoint(47.00081813947623,-120.51230830692508))&lt;140274.19208574612" ; Times: 1
+	Query: "(diadophis punctatus) distance(location,geopoint(47.00081813947623,-120.51230830692508))&lt;330284" ; Times: 1
+	Query: "Rana institutioncode:UWBM basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 842 download events in this period)
+Total number of records downloaded: 1464
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 61
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 4
+	Date: 2020-11-21 ; Times: 5
+	Date: 2020-11-22 ; Times: 8
+	Date: 2020-11-05 ; Times: 3
+	Date: 2020-11-19 ; Times: 9
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-29 ; Times: 3
+	Date: 2020-11-04 ; Times: 3
+	Date: 2020-11-16 ; Times: 4
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-12 ; Times: 2
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-26 ; Times: 4
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-17 ; Times: 5
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon vehiculum vntype:specimen institutioncode:UWBM basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 2
+	Query: "genus:Phlyctimantis class:Amphibia haslength:1" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "eublepharidae" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 34
+	Query: "podocnemis" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:cristatellus genus:Anolis haslength:1" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 5
+
+
+End of report.
