@@ -1,0 +1,176 @@
+Report for Institution Code UWBM, Resource uwbm_herp
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 550
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 70
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: Mozambique ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-20 ; Times: 4
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-01 ; Times: 18
+	Date: 2020-12-08 ; Times: 9
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 9
+	Date: 2020-12-16 ; Times: 6
+	Date: 2020-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "UWBM Amphibian 3332" ; Times: 1
+	Query: "UWBM Amphibian 3347" ; Times: 1
+	Query: "UWBM Amphibian 7987" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 4
+	Query: "genus:chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;North Carolina&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "UWBM Amphibian 8700" ; Times: 1
+	Query: "mappable:1 scientificname:Amnirana galamensis" ; Times: 1
+	Query: "UWBM Amphibian 3345" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "ambystoma gracile &#34;Washington&#34;" ; Times: 4
+	Query: "family:Elapidae institutioncode:UWBM hastissue:1" ; Times: 1
+	Query: "specificepithet:wrighti genus:batrachoseps" ; Times: 2
+	Query: "Dicamptodon county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Crocodylus niloticus" ; Times: 2
+	Query: "Dicamptodon tenebrosus county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:japonica genus:Geoemyda" ; Times: 1
+	Query: "genus:Phlyctimantis class:Amphibia haslength:1" ; Times: 1
+	Query: "Tarrant County" ; Times: 2
+	Query: "UWBM 8117" ; Times: 2
+	Query: "genus:Drymarchon hastissue:1" ; Times: 1
+	Query: "specificepithet:tenuis genus:contia year &gt;= 2000" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "UWBM Amphibian 7979" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "Dicamptodon tenebrosus stateprovince:&#34;Washington&#34;" ; Times: 4
+	Query: "mappable:1 scientificname:Ptychadena oxyrhynchus" ; Times: 1
+	Query: "UWBM Amphibian 7237" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "UWBM Amphibian 7991" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "Xenopus muelleri" ; Times: 1
+	Query: "UWBM Amphibian 7239" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "UWBM Amphibian 8699" ; Times: 1
+	Query: "Mauremys reevesii" ; Times: 1
+	Query: "Lampropeltis getula county:&#34;siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "family:Elapidae hastissue:1" ; Times: 1
+	Query: "Kassina senegalensis" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Glyptemys" ; Times: 1
+	Query: "sceloporus malachiticus guatemala" ; Times: 1
+	Query: "genus:contia month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "Chrysopelea paradisi" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "imantodes gemmistratus panama" ; Times: 1
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 7
+	Query: "Plethodon larselli stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "mappable:1 scientificname:Hemisus marmoratus" ; Times: 1
+	Query: "Phrynobatrachus natalensis" ; Times: 1
+	Query: "arlington texas" ; Times: 2
+	Query: "genus:Pituophis preparations:skeleton institutioncode:UWBM" ; Times: 1
+	Query: "Ambystoma county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "institutioncode:UWBM" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "UWBM Amphibian 8096" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 705 download events in this period)
+Total number of records downloaded: 2002
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 14
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 14
+	Date: 2020-12-14 ; Times: 3
+	Date: 2020-12-02 ; Times: 21
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-15 ; Times: 6
+	Date: 2020-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "agama agama" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Anolis stratulus" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Trachycephalus typhonius" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "plethodon montanus" ; Times: 2
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Anolis krugi" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Anolis pulchellus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Anolis evermanni" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Anolis gundlachi" ; Times: 1
+
+
+End of report.
